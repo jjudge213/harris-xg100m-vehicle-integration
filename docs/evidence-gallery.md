@@ -6,7 +6,7 @@ Private draft. Images in this repository were captured from Josh's Instagram evi
 
 ### Harris XG-100M Progress
 
-![Harris XG-100M progress](../assets/xg100m-progress-2025-04-28.webp)
+![Harris XG-100M progress](../assets/xg100m-progress-2025-04-28.gif)
 
 - Source: Instagram, 2025-04-28.
 - Portfolio value: direct evidence of Harris XG-100M vehicle integration progress.
