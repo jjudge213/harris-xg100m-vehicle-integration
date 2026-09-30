@@ -4,7 +4,7 @@ Private draft. Do not publish yet.
 
 ## Objective
 
-Document a hands-on vehicle communications integration project centered on a Harris XG-100M mobile radio. The emphasis is physical installation, console fitment, audio/speaker work, accessory/interface planning, and verification.
+Document a hands-on vehicle communications integration project centered on a Harris XG-100M mobile radio. The emphasis is physical installation, console fitment, speaker integration, accessory/interface planning, and verification.
 
 This repository is being built as evidence for communications-equipment installation and field-service roles. It should show the practical path from radio placement to speaker integration, wiring/interface planning, testing, and final review.
 
@@ -27,8 +27,7 @@ Lead evidence:
 ### 2. Physical Fitment
 
 - Console space and mounting constraints.
-- Speaker grille/fabrication work.
-- Speaker integration and console fitment.
+- Speaker grille/fabrication work and console fitment.
 - Follow-on mounting, cable-routing, and accessory-interface planning.
 
 ### 3. Electrical and Interface Planning
@@ -42,8 +41,6 @@ Lead evidence:
 
 - Radio boot/progress checks.
 - Audio/speaker verification.
-- Radio boot/progress review.
-- Speaker/audio verification.
 - Final visual review for sensitive display or device details before any public release.
 
 ### 5. Troubleshooting Notes
@@ -60,7 +57,7 @@ Use the field-service pattern:
 ## Current Evidence Inputs
 
 - XG-100M installation progress.
-- XG-100M center-console speaker integration.
+- XG-100M center-console speaker integration carousel, all 3 images.
 
 See [evidence-manifest.md](evidence-manifest.md) for source URLs and review notes.
 
