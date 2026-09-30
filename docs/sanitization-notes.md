@@ -20,11 +20,6 @@ Review every image for:
 |---|---|---|
 | `xg100m-progress-2025-04-28.png` | Medium | Inspect radio display and visible labels; crop/redact if needed. |
 | `xg100m-speaker-integration-2025-03-30.png` | Low | Final visual check; likely lead image. |
-| `custom-truck-tablet-radio-mount-cad-2024-08-05.png` | Medium | Inspect CAD UI for filenames, project names, or private comments. |
-| `vehicle-radio-atc-monitoring-2020-12-03.png` | Medium | Redact/crop any readable frequency or channel detail. |
-| `android-car-radio-ubuntu-vm-2023-08-30.png` | Medium | Inspect terminal output before public use. |
-| `vehicle-tool-field-loadout-2021-04-10.png` | Low-Medium | Check for personal/private items. |
-| `vehicle-troubleshooting-2020-12-05.png` | Low-Medium | Check for private vehicle identifiers and unrelated personal items. |
 
 ## Public Rewrite Tasks
 

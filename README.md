@@ -4,9 +4,9 @@ Private draft. Do not publish yet.
 
 ## Objective
 
-Document a hands-on vehicle communications integration project centered on a Harris XG-100M mobile radio and supporting vehicle systems. The emphasis is physical installation, console fitment, audio/speaker work, fabrication, field-support tooling, and troubleshooting.
+Document a hands-on vehicle communications integration project centered on a Harris XG-100M mobile radio. The emphasis is physical installation, console fitment, audio/speaker work, accessory/interface planning, and verification.
 
-This repository is being built as evidence for communications-equipment installation and field-service roles. It should show the practical path from equipment selection to fitment, wiring/interface planning, testing, and fault isolation.
+This repository is being built as evidence for communications-equipment installation and field-service roles. It should show the practical path from radio placement to speaker integration, wiring/interface planning, testing, and final review.
 
 ## Evidence Gallery
 
@@ -28,8 +28,8 @@ Lead evidence:
 
 - Console space and mounting constraints.
 - Speaker grille/fabrication work.
-- Tablet/radio mount CAD work for vehicle-ready printed or fabricated parts.
-- Tool and field-kit considerations for roadside or field troubleshooting.
+- Speaker integration and console fitment.
+- Follow-on mounting, cable-routing, and accessory-interface planning.
 
 ### 3. Electrical and Interface Planning
 
@@ -42,8 +42,9 @@ Lead evidence:
 
 - Radio boot/progress checks.
 - Audio/speaker verification.
-- Vehicle-mounted receiver/monitoring experiments.
-- Linux/Android head-unit experimentation as supporting vehicle-compute evidence.
+- Radio boot/progress review.
+- Speaker/audio verification.
+- Final visual review for sensitive display or device details before any public release.
 
 ### 5. Troubleshooting Notes
 
@@ -60,10 +61,6 @@ Use the field-service pattern:
 
 - XG-100M installation progress.
 - XG-100M center-console speaker integration.
-- Custom truck tablet/radio mount CAD.
-- Vehicle radio/ATC monitoring.
-- Android car-radio Ubuntu VM.
-- Vehicle tool/loadout and troubleshooting photos.
 
 See [evidence-manifest.md](evidence-manifest.md) for source URLs and review notes.
 
