@@ -14,7 +14,7 @@ See [docs/evidence-gallery.md](docs/evidence-gallery.md) for the current private
 
 Lead evidence:
 
-![Harris XG-100M progress](assets/xg100m-progress-2025-04-28.png)
+![Harris XG-100M progress](assets/xg100m-progress-2025-04-28.webp)
 
 ## Case Study Structure
 

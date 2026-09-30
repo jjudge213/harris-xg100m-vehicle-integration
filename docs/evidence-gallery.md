@@ -6,20 +6,20 @@ Private draft. Images in this repository were captured from Josh's Instagram evi
 
 ### Harris XG-100M Progress
 
-![Harris XG-100M progress](../assets/xg100m-progress-2025-04-28.png)
+![Harris XG-100M progress](../assets/xg100m-progress-2025-04-28.webp)
 
 - Source: Instagram, 2025-04-28.
 - Portfolio value: direct evidence of Harris XG-100M vehicle integration progress.
-- Media check: single video/post item; no carousel items found. This asset is a representative frame capture.
+- Media check: single video/post item; no carousel items found. This asset was replaced with direct Instagram source media.
 - Review note: check display, visible labels, and any device identifiers before public use.
 
 ### Center-Console Speaker Integration
 
-![XG-100M speaker grille fabrication](../assets/xg100m-speaker-integration-2025-03-30-01.png)
+![XG-100M speaker grille fabrication](../assets/xg100m-speaker-integration-2025-03-30-01.jpg)
 
-![XG-100M speaker grille installed close-up](../assets/xg100m-speaker-integration-2025-03-30-02.png)
+![XG-100M speaker grille installed close-up](../assets/xg100m-speaker-integration-2025-03-30-02.jpg)
 
-![XG-100M speaker grille installed wider view](../assets/xg100m-speaker-integration-2025-03-30-03.png)
+![XG-100M speaker grille installed wider view](../assets/xg100m-speaker-integration-2025-03-30-03.jpg)
 
 - Source: Instagram, 2025-03-30.
 - Portfolio value: strongest direct installation/fabrication image in this set.
