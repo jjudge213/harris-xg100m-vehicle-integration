@@ -18,10 +18,9 @@ Review every image for:
 
 | Asset | Risk | Required Action |
 |---|---|---|
-| `xg100m-progress-2025-04-28.png` | Medium | Inspect radio display and visible labels; crop/redact if needed. |
-| `xg100m-speaker-integration-2025-03-30-01.png` | Low | Final visual check; fabrication/workbench image. |
-| `xg100m-speaker-integration-2025-03-30-02.png` | Low | Final visual check; installed close-up. |
-| `xg100m-speaker-integration-2025-03-30-03.png` | Low-Medium | Final visual check; wider vehicle interior view. |
+| `xg100m-speaker-integration-2025-03-30-01.jpg` | Low | Final visual check; fabrication/workbench image. |
+| `xg100m-speaker-integration-2025-03-30-02.jpg` | Low | Final visual check; installed close-up. |
+| `xg100m-speaker-integration-2025-03-30-03.jpg` | Low-Medium | Final visual check; wider vehicle interior view. |
 
 ## Public Rewrite Tasks
 
