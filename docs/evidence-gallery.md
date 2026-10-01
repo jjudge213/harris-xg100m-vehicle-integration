@@ -8,7 +8,7 @@ Source: Instagram, 2025-03-30.
 
 ### Fabricated Speaker Grille
 
-![Fabricated XG-100M vehicle speaker grille](../assets/xg100m-speaker-integration-2025-03-30-01.jpg)
+<img src="../assets/xg100m-speaker-integration-2025-03-30-01.jpg" alt="Fabricated XG-100M vehicle speaker grille" style="max-width:50%; height:auto;">
 
 Review notes:
 
@@ -18,7 +18,7 @@ Review notes:
 
 ### Installed Close-Up
 
-![Installed vehicle speaker grille close-up](../assets/xg100m-speaker-integration-2025-03-30-02.jpg)
+<img src="../assets/xg100m-speaker-integration-2025-03-30-02.jpg" alt="Installed vehicle speaker grille close-up" style="max-width:50%; height:auto;">
 
 Review notes:
 
@@ -28,7 +28,7 @@ Review notes:
 
 ### Installed Wider View
 
-![Installed speaker grille wider vehicle interior view](../assets/xg100m-speaker-integration-2025-03-30-03.jpg)
+<img src="../assets/xg100m-speaker-integration-2025-03-30-03.jpg" alt="Installed speaker grille wider vehicle interior view" style="max-width:50%; height:auto;">
 
 Review notes:
 
