@@ -1,74 +1,115 @@
 # Harris XG-100M Vehicle Integration
 
-Private draft. Do not publish yet.
+Private portfolio draft. Do not publish until the evidence and redaction review is complete.
 
-## Objective
+## Purpose
 
-Document a hands-on vehicle communications integration project centered on a Harris XG-100M mobile radio. The emphasis is physical installation, console fitment, speaker integration, accessory/interface planning, and verification.
+This repository documents a vehicle communications integration project centered on a Harris XG-100M mobile radio installation. The current evidence set is strongest for the audio/speaker and console-fitment portion of the install: designing a clean speaker location, fabricating a protective grille, fitting it into the vehicle interior, and leaving the installation serviceable for future radio, power, RF, and accessory-cable work.
 
-This repository is being built as evidence for communications-equipment installation and field-service roles. It should show the practical path from radio placement to speaker integration, wiring/interface planning, testing, and final review.
+The portfolio goal is to show practical communications-equipment installation thinking: physical fit, usable audio, cable/interface planning, safety boundaries, and field-service style verification.
 
-## Evidence Gallery
+## Current Status
 
-See [docs/evidence-gallery.md](docs/evidence-gallery.md) for the current private image set pulled from Instagram evidence posts.
+| Area | Status | Evidence |
+|---|---|---|
+| Speaker grille fabrication | Documented | 3-image Instagram carousel |
+| Vehicle console speaker fitment | Documented | Installed close-up and wider view |
+| Radio body/control-head mounting | Needs evidence | Photos/notes still needed |
+| Power/fusing/grounding plan | Needs write-up | Use sanitized values only |
+| Antenna/feedline routing | Needs evidence | Photos/diagram still needed |
+| Accessory/audio/PTT cabling | Needs write-up | Public-source pinout references only |
+| RF/audio verification | Needs checklist | No operational frequencies or codeplug details |
 
-Lead evidence:
+## Evidence
 
+See [docs/evidence-gallery.md](docs/evidence-gallery.md) for the private review gallery.
 
-## Case Study Structure
+Current active media:
 
-### 1. Installation Goal
+| File | What It Shows | Portfolio Value |
+|---|---|---|
+| `assets/xg100m-speaker-integration-2025-03-30-01.jpg` | Fabricated speaker grille before installation | Mechanical fitment, fabricated protective cover, bench/workflow evidence |
+| `assets/xg100m-speaker-integration-2025-03-30-02.jpg` | Installed grille close-up | Finished panel fit, fastener placement, speaker protection |
+| `assets/xg100m-speaker-integration-2025-03-30-03.jpg` | Wider installed vehicle view | Placement, accessibility, integration into existing interior trim |
 
-- Integrate a Harris XG-100M into a vehicle in a way that is usable, serviceable, and mechanically secure.
-- Keep controls, audio, and supporting equipment reachable without creating unsafe clutter.
-- Preserve a clean path for future accessory, speaker, data, and power work.
+## Installation Narrative
 
-### 2. Physical Fitment
+### Problem
 
-- Console space and mounting constraints.
-- Speaker grille/fabrication work and console fitment.
-- Follow-on mounting, cable-routing, and accessory-interface planning.
+Mobile radio audio needs to be usable in a vehicle without leaving a loose speaker, exposed driver, or fragile wiring in the cabin. The install also needs to preserve serviceability: a future technician should be able to inspect, remove, or modify the speaker assembly without tearing apart unrelated interior components.
 
-### 3. Electrical and Interface Planning
+### Constraints
 
-- Power-source planning and fuse/battery considerations.
-- Speaker/audio integration.
-- Accessory connector planning and cable-routing concepts.
-- Redaction required before any public diagrams: no proprietary pinouts, codeplugs, keys, serials, or live operational configuration.
+- Limited interior space around the console and lower trim.
+- Audio needs to remain audible while the speaker remains physically protected.
+- Hardware must not interfere with driving controls, occupant movement, or normal vehicle use.
+- Public documentation must avoid operational radio configuration, proprietary Harris material, and sensitive identifiers.
 
-### 4. Testing and Validation
+### Approach
 
-- Radio boot/progress checks.
-- Audio/speaker verification.
-- Final visual review for sensitive display or device details before any public release.
+1. Identify a panel location that keeps radio audio close to the operator while avoiding clutter.
+2. Use a compact speaker position behind a protective grille.
+3. Fabricate a low-profile grille with enough open area for audio while protecting the speaker cone.
+4. Mount the grille with visible service fasteners instead of hiding the assembly permanently.
+5. Reserve the rest of the installation documentation for sanitized diagrams and checklists: power, fusing, grounding, antenna/feedline routing, and accessory-cable interfaces.
 
-### 5. Troubleshooting Notes
+### What This Demonstrates
 
-Use the field-service pattern:
+- Mechanical integration in a vehicle interior.
+- Fabrication of a functional part rather than a decorative cover.
+- Awareness of serviceability, fastener access, and future troubleshooting.
+- Communications installation thinking: audio path, operator usability, cable planning, and sensitive-configuration boundaries.
+
+## Verification Plan
+
+The final public version should include a sanitized checklist using this structure:
+
+| Check | Method | Result |
+|---|---|---|
+| Physical retention | Inspect fasteners and grille movement | Pending write-up |
+| Speaker protection | Verify cone/driver is not exposed to cargo or footwell contact | Pending write-up |
+| Audio clarity | Receive/monitor non-sensitive test audio | Pending write-up |
+| Cable strain relief | Inspect route and bend radius behind panel | Pending evidence |
+| Power safety | Confirm fuse location and wire protection | Pending sanitized diagram |
+| RF path | Confirm antenna/feedline route and connector condition | Pending evidence |
+
+## Troubleshooting Template
+
+Use this pattern for any installation fault notes:
 
 1. Symptom
-2. Investigation
-3. Measurement or inspection
+2. Initial inspection
+3. Measurement or continuity check
 4. Diagnosis
 5. Corrective action
 6. Verification
 
-## Current Evidence Inputs
+Example topics to document later:
 
-- XG-100M installation progress.
-- XG-100M center-console speaker integration carousel, all 3 images.
-
-See [evidence-manifest.md](evidence-manifest.md) for source URLs and review notes.
+- weak or muffled audio after panel installation
+- vibration/rattle around the grille
+- connector strain or intermittent accessory audio
+- power drop, fuse issue, or grounding fault
+- feedline routing, connector, or antenna SWR issue
 
 ## Sensitive Material Boundary
 
 This repository must not publish:
 
-- encryption keys or key-fill material
-- proprietary Harris manuals or programming files
-- operational frequencies
-- radio serials, IDs, or codeplug details
-- private locations, addresses, or vehicle identifiers
+- encryption keys, key-fill files, or key IDs
+- proprietary Harris programming files, codeplugs, manuals, or non-public pinouts
+- operational frequencies, talkgroups, radio IDs, serials, or unit IDs
+- private vehicle identifiers, addresses, or location details
+- screenshots that expose sensitive radio configuration
 - credentials, certificates, tokens, or private infrastructure details
 
-Public diagrams should be recreated from scratch using sanitized values and public information only.
+Public diagrams should be recreated from scratch with placeholders and public information only.
+
+## Next Work
+
+- Add a sanitized vehicle communications block diagram.
+- Add photos or diagrams for radio body/control-head placement.
+- Add power, fuse, and grounding notes using generic values.
+- Add antenna/feedline routing evidence if safe.
+- Add accessory/audio/PTT cable notes based only on public or user-created references.
+- Write one or two troubleshooting notes using the field-service pattern above.

@@ -1,18 +1,37 @@
 # Evidence Gallery
 
-Private draft. Images in this repository were captured from Josh's Instagram evidence posts for internal review. This repo should stay focused on direct Harris XG-100M vehicle integration evidence only. Do not make public until each image has passed the sanitization review in `docs/sanitization-notes.md`.
+Private review draft. Do not publish until every image has passed the sanitization review in [sanitization-notes.md](sanitization-notes.md).
 
-## Lead Installation Evidence
+## Center-Console Speaker Integration
 
-### Center-Console Speaker Integration
+Source: Instagram, 2025-03-30.
 
-![XG-100M speaker grille fabrication](../assets/xg100m-speaker-integration-2025-03-30-01.jpg)
+### Fabricated Speaker Grille
 
-![XG-100M speaker grille installed close-up](../assets/xg100m-speaker-integration-2025-03-30-02.jpg)
+![Fabricated XG-100M vehicle speaker grille](../assets/xg100m-speaker-integration-2025-03-30-01.jpg)
 
-![XG-100M speaker grille installed wider view](../assets/xg100m-speaker-integration-2025-03-30-03.jpg)
+Review notes:
 
-- Source: Instagram, 2025-03-30.
-- Portfolio value: strongest direct installation/fabrication image in this set.
-- Media check: carousel with 3 images; all 3 images captured.
-- Review note: likely safe after final visual check; add text explaining speaker choice, mounting constraints, and fitment.
+- Shows a fabricated protective grille before final installation.
+- Useful for demonstrating mechanical fabrication and fitment planning.
+- Final public text should explain material choice, mounting hole layout, open-area/audio tradeoff, and serviceability.
+
+### Installed Close-Up
+
+![Installed vehicle speaker grille close-up](../assets/xg100m-speaker-integration-2025-03-30-02.jpg)
+
+Review notes:
+
+- Shows the grille installed over the speaker.
+- Visible fasteners support the serviceability narrative.
+- Check for any reflected/private details before public release.
+
+### Installed Wider View
+
+![Installed speaker grille wider vehicle interior view](../assets/xg100m-speaker-integration-2025-03-30-03.jpg)
+
+Review notes:
+
+- Shows placement within the lower console/vehicle interior.
+- Useful for discussing operator-accessible audio and unobtrusive placement.
+- Review for vehicle/location identifiers before public release.
