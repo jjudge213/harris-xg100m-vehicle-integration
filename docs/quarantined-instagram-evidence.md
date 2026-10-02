@@ -8,4 +8,4 @@ These rows were removed from gallery, manifest retrieved-media audit, and media 
 
 | Date | Slug | URL | Removed evidence |
 |---|---|---|---|
-| 2025-04-28 | `xg100m-progress` | `https://www.instagram.com/p/DI-KA5Lxfh6FNLzf5w9CnS9sSI-r-Gdy8KZhF40/` | Removed from active assets after source-media mismatch. |
+| 2025-04-28 | `xg100m-progress` | `https://www.instagram.com/p/DI-KA5Lxfh6FNLzf5w9CnS9sSI-r-Gdy8KZhF40/` | Resolved 2026-10-02: local source archive visually verified as XG-100M control-head/dash video and restored to active evidence. |

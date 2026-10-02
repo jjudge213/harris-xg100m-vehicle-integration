@@ -12,9 +12,10 @@ The portfolio goal is to show practical communications-equipment installation th
 
 | Area | Status | Evidence |
 |---|---|---|
+| XG-100M control-head/dash placement | Documented | 2025-04-28 verified animated GIF |
 | Speaker grille fabrication | Documented | 3-image Instagram carousel |
 | Vehicle console speaker fitment | Documented | Installed close-up and wider view |
-| Radio body/control-head mounting | Needs evidence | Photos/notes still needed |
+| Radio body/control-head mounting | Partially documented | Control-head/dash evidence present; radio body/power/RF routing still needs documentation |
 | Power/fusing/grounding plan | Needs write-up | Use sanitized values only |
 | Antenna/feedline routing | Needs evidence | Photos/diagram still needed |
 | Accessory/audio/PTT cabling | Needs write-up | Public-source pinout references only |
@@ -28,6 +29,7 @@ Current active media:
 
 | File | What It Shows | Portfolio Value |
 |---|---|---|
+| `assets/xg100m-progress-2025-04-28-01.gif` | XG-100M control head/radio visible in vehicle dash area | Installed-position evidence, control-head access, vehicle integration progress |
 | `assets/xg100m-speaker-integration-2025-03-30-01.jpg` | Fabricated speaker grille before installation | Mechanical fitment, fabricated protective cover, bench/workflow evidence |
 | `assets/xg100m-speaker-integration-2025-03-30-02.jpg` | Installed grille close-up | Finished panel fit, fastener placement, speaker protection |
 | `assets/xg100m-speaker-integration-2025-03-30-03.jpg` | Wider installed vehicle view | Placement, accessibility, integration into existing interior trim |

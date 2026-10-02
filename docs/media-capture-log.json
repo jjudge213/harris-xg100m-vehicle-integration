@@ -1,8 +1,20 @@
 {
-  "rebuilt_at": "2026-10-02T11:18:43.678796+00:00",
+  "rebuilt_at": "2026-10-02T11:25:45.609095+00:00",
   "source": "portfolio/instagram-full-profile-sweep-20261001/blocked-unblocked-posts.csv",
   "repo": "harris-xg100m-vehicle-integration",
   "media": [
+    {
+      "file": "assets/xg100m-progress-2025-04-28-01.gif",
+      "filename": "xg100m-progress-2025-04-28-01.gif",
+      "instagram_url": "https://www.instagram.com/p/DI-KA5Lxfh6FNLzf5w9CnS9sSI-r-Gdy8KZhF40/",
+      "shortcode": "DI-KA5Lxfh6FNLzf5w9CnS9sSI-r-Gdy8KZhF40",
+      "media_index": 1,
+      "kind": "video_gif",
+      "source_archive_path": "gifs/2025-04-28_DI-KA5Lxfh6FNLzf5w9CnS9sSI-r-Gdy8KZhF40/DI-KA5Lxfh6FNLzf5w9CnS9sSI-r-Gdy8KZhF40-01-video.gif",
+      "bytes": 9241972,
+      "sha256": "22625303708b0b1ecefb8e3bdc03a41f8e1392f78b205a842fc0a427d884b181",
+      "frames": 74
+    },
     {
       "file": "assets/xg100m-speaker-integration-2025-03-30-01.jpg",
       "filename": "xg100m-speaker-integration-2025-03-30-01.jpg",
