@@ -9,6 +9,6 @@
 | RF/electronic test equipment | `rf-sdr-test-lab` | Medium-Strong | HackRF/spectrum posts strong; exact NanoVNA and oscilloscope posts still targeted. |
 | Tactical data / TAK | `tactical-networking-integration` | Strong | TAK/DJI, NYS traffic camera, geospatial screenshots, PyTAK/CoT projects. |
 | IP networking / Linux | `field-systems-lab`, `tactical-networking-integration` | Strong | OTS/TAK tooling, ZeroTier/runbook evidence, and field systems work outside this XG-100M repo. |
-| Embedded/electronics | `embedded-electronics-integration` | Medium | M.2 HaLow adapter, RS-485 RE, Spypoint analysis, bench wiring, LED build. |
+| Embedded/electronics | `embedded-electronics-integration` | Medium | M.2 HaLow adapter, RS-485 RE, Spypoint analysis, bench wiring, PCB inspection. |
 | Field troubleshooting | `field-systems-lab` | Strong | Chainsaw fault repair, vehicle troubleshooting, printer failure/repair, service recovery notes. |
 | Mechanical/CNC aptitude | `cnc-process-and-integration-notes` | Strong | CNC/router, CAD/CAM, router practice, foundry/forge, woodworking, 3D printing. |
