@@ -1,37 +1,13 @@
 # Evidence Gallery
 
-Private review draft. Do not publish until every image has passed the sanitization review in [sanitization-notes.md](sanitization-notes.md).
+Private gallery rebuilt from the unblocked Instagram evidence list on 2026-10-02T11:18:43.678796+00:00.
 
-## Center-Console Speaker Integration
+Media rule: still evidence is stored as JPG; verified video evidence is stored as animated GIF.
 
-Source: Instagram, 2025-03-30.
+## Xg100M Speaker Integration
 
-### Fabricated Speaker Grille
+- Source: https://www.instagram.com/p/DH1soIIRgMlTrdfoGP_xGpPCktMAB7gk9IZPOI0/
 
-<img src="../assets/xg100m-speaker-integration-2025-03-30-01.jpg" alt="Fabricated XG-100M vehicle speaker grille" width="48%">
+<img src="../assets/xg100m-speaker-integration-2025-03-30-01.jpg" alt="xg100m speaker integration 2025 03 30 01" width="48%"> <img src="../assets/xg100m-speaker-integration-2025-03-30-02.jpg" alt="xg100m speaker integration 2025 03 30 02" width="48%">
 
-Review notes:
-
-- Shows a fabricated protective grille before final installation.
-- Useful for demonstrating mechanical fabrication and fitment planning.
-- Final public text should explain material choice, mounting hole layout, open-area/audio tradeoff, and serviceability.
-
-### Installed Close-Up
-
-<img src="../assets/xg100m-speaker-integration-2025-03-30-02.jpg" alt="Installed vehicle speaker grille close-up" width="48%">
-
-Review notes:
-
-- Shows the grille installed over the speaker.
-- Visible fasteners support the serviceability narrative.
-- Check for any reflected/private details before public release.
-
-### Installed Wider View
-
-<img src="../assets/xg100m-speaker-integration-2025-03-30-03.jpg" alt="Installed speaker grille wider vehicle interior view" width="48%">
-
-Review notes:
-
-- Shows placement within the lower console/vehicle interior.
-- Useful for discussing operator-accessible audio and unobtrusive placement.
-- Review for vehicle/location identifiers before public release.
+<img src="../assets/xg100m-speaker-integration-2025-03-30-03.jpg" alt="xg100m speaker integration 2025 03 30 03" width="48%">
