@@ -14,6 +14,7 @@ The portfolio goal is to show practical communications-equipment installation th
 |---|---|---|
 | XG-100M control-head/dash placement | Documented | 2025-04-28 verified animated GIF |
 | Speaker grille fabrication | Documented | 3-image Instagram carousel |
+| Radio support/frame prototype | Documented | Selected ChatExport frame prototype photos |
 | Vehicle console speaker fitment | Documented | Installed close-up and wider view |
 | Radio body/control-head mounting | Further documented | Control-head/dash evidence plus selected vehicle radio context clips; power/RF routing still needs documentation |
 | Power/fusing/grounding plan | Needs write-up | Use sanitized values only |
@@ -32,6 +33,10 @@ Current active media:
 | `assets/xg100m-progress-2025-04-28-01.gif` | XG-100M control head/radio visible in vehicle dash area | Installed-position evidence, control-head access, vehicle integration progress |
 | `assets/xg100m-vehicle-radio-context-2025-05-08-01.gif` | Vehicle radio/control-head context from selected ChatExport video | Additional installed-equipment context and operator-access evidence |
 | `assets/xg100m-handheld-vehicle-context-2025-05-08-01.gif` | Handheld radio and vehicle cabin context from selected ChatExport video | Field-radio context around the vehicle integration environment |
+| `assets/xg100m-frame-prototype-2024-10-03-01.jpg` | Frame prototype mounted to radio body, angle 1 | Fabrication and physical support evidence |
+| `assets/xg100m-frame-prototype-2024-10-03-02.jpg` | Frame prototype mounted to radio body, angle 2 | Fitment and fastener-access evidence |
+| `assets/xg100m-frame-prototype-2024-10-03-03.jpg` | Frame prototype close-up, side view | Mechanical support and bracket geometry |
+| `assets/xg100m-frame-prototype-2024-10-03-04.jpg` | Frame prototype close-up, alternate side view | Symmetry, clearance, and serviceability context |
 | `assets/xg100m-speaker-integration-2025-03-30-01.jpg` | Fabricated speaker grille before installation | Mechanical fitment, fabricated protective cover, bench/workflow evidence |
 | `assets/xg100m-speaker-integration-2025-03-30-02.jpg` | Installed grille close-up | Finished panel fit, fastener placement, speaker protection |
 | `assets/xg100m-speaker-integration-2025-03-30-03.jpg` | Wider installed vehicle view | Placement, accessibility, integration into existing interior trim |
@@ -56,6 +61,14 @@ Mobile radio audio needs to be usable in a vehicle without leaving a loose speak
 3. Fabricate a low-profile grille with enough open area for audio while protecting the speaker cone.
 4. Mount the grille with visible service fasteners instead of hiding the assembly permanently.
 5. Reserve the rest of the installation documentation for sanitized diagrams and checklists: power, fusing, grounding, antenna/feedline routing, and accessory-cable interfaces.
+
+### Frame Prototype Evidence
+
+The selected stills below document a frame/support prototype around the radio body. This adds mechanical fabrication evidence to the repo beyond the speaker grille work: bracket geometry, fastener access, equipment clearance, and a serviceable support concept.
+
+<img src="assets/xg100m-frame-prototype-2024-10-03-01.jpg" alt="XG-100M frame prototype mounted to radio body, 2024-10-03" width="48%"> <img src="assets/xg100m-frame-prototype-2024-10-03-02.jpg" alt="XG-100M frame prototype alternate angle, 2024-10-03" width="48%">
+
+<img src="assets/xg100m-frame-prototype-2024-10-03-03.jpg" alt="XG-100M frame prototype side close-up, 2024-10-03" width="48%"> <img src="assets/xg100m-frame-prototype-2024-10-03-04.jpg" alt="XG-100M frame prototype alternate side close-up, 2024-10-03" width="48%">
 
 ### Selected Vehicle Radio Context
 
