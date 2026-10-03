@@ -32,6 +32,7 @@ Current active media:
 | `assets/xg100m-progress-2025-04-28-01.gif` | XG-100M control head/radio visible in vehicle dash area | Installed-position evidence, control-head access, vehicle integration progress |
 | `assets/xg100m-vehicle-radio-context-2025-05-08-01.gif` | Vehicle radio/control-head context from selected ChatExport video | Additional installed-equipment context and operator-access evidence |
 | `assets/xg100m-handheld-vehicle-context-2025-05-08-01.gif` | Handheld radio and vehicle cabin context from selected ChatExport video | Field-radio context around the vehicle integration environment |
+| `assets/xg100m-vehicle-install-keyloading-2025-05-15-01.gif` | Functioning Harris XG-100M vehicle install context | Operational fitment context for the vehicle radio installation |
 | `assets/xg100m-speaker-integration-2025-03-30-01.jpg` | Fabricated speaker grille before installation | Mechanical fitment, fabricated protective cover, bench/workflow evidence |
 | `assets/xg100m-speaker-integration-2025-03-30-02.jpg` | Installed grille close-up | Finished panel fit, fastener placement, speaker protection |
 | `assets/xg100m-speaker-integration-2025-03-30-03.jpg` | Wider installed vehicle view | Placement, accessibility, integration into existing interior trim |
@@ -62,6 +63,8 @@ Mobile radio audio needs to be usable in a vehicle without leaving a loose speak
 The selected video evidence below adds motion context around radio placement, cabin access, and field-radio handling. It strengthens the portfolio story around practical vehicle communications integration, while remaining private-review material until displays, identifiers, and surrounding details are checked.
 
 <img src="assets/xg100m-vehicle-radio-context-2025-05-08-01.gif" alt="XG-100M vehicle radio context evidence, 2025-05-08" width="48%"> <img src="assets/xg100m-handheld-vehicle-context-2025-05-08-01.gif" alt="Vehicle field-radio handling context evidence, 2025-05-08" width="48%">
+
+<img src="assets/xg100m-vehicle-install-keyloading-2025-05-15-01.gif" alt="Functioning Harris XG-100M vehicle install evidence, 2025-05-15" width="48%">
 
 ### What This Demonstrates
 

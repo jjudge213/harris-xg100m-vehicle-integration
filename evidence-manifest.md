@@ -11,6 +11,7 @@ This manifest combines the rebuilt `unblocked_active` Instagram evidence list wi
 | 2025-04-28 | Xg100M Progress | https://www.instagram.com/p/DI-KA5Lxfh6FNLzf5w9CnS9sSI-r-Gdy8KZhF40/ | xg100m-progress-2025-04-28-01.gif |
 | 2025-05-08 | Selected Vehicle Radio Context | Telegram ChatExport video_221 | xg100m-vehicle-radio-context-2025-05-08-01.gif |
 | 2025-05-08 | Selected Handheld Vehicle Context | Telegram ChatExport video_222 | xg100m-handheld-vehicle-context-2025-05-08-01.gif |
+| 2025-05-15 | Functioning Harris XG-100M Vehicle Install | Telegram ChatExport video_224 | xg100m-vehicle-install-keyloading-2025-05-15-01.gif |
 | 2025-03-30 | Xg100M Speaker Integration | https://www.instagram.com/p/DH1soIIRgMlTrdfoGP_xGpPCktMAB7gk9IZPOI0/ | xg100m-speaker-integration-2025-03-30-01.jpg<br>xg100m-speaker-integration-2025-03-30-02.jpg<br>xg100m-speaker-integration-2025-03-30-03.jpg |
 
 ## Exclusion Rule
