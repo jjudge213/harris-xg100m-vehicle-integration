@@ -17,15 +17,6 @@ Media rule: still evidence is stored as JPG; verified video evidence is stored a
 
 <img src="../assets/xg100m-vehicle-radio-context-2025-05-08-01.gif" alt="xg100m vehicle radio context 2025 05 08" width="48%"> <img src="../assets/xg100m-handheld-vehicle-context-2025-05-08-01.gif" alt="xg100m handheld vehicle context 2025 05 08" width="48%">
 
-## Xg100M Frame Prototype
-
-- Source: local Telegram ChatExport photo review, selected by Josh for repo incorporation.
-- Redaction note: private review only until labels, serials, and surrounding workspace details are checked.
-
-<img src="../assets/xg100m-frame-prototype-2024-10-03-01.jpg" alt="xg100m frame prototype 2024 10 03 01" width="48%"> <img src="../assets/xg100m-frame-prototype-2024-10-03-02.jpg" alt="xg100m frame prototype 2024 10 03 02" width="48%">
-
-<img src="../assets/xg100m-frame-prototype-2024-10-03-03.jpg" alt="xg100m frame prototype 2024 10 03 03" width="48%"> <img src="../assets/xg100m-frame-prototype-2024-10-03-04.jpg" alt="xg100m frame prototype 2024 10 03 04" width="48%">
-
 ## Xg100M Speaker Integration
 
 - Source: https://www.instagram.com/p/DH1soIIRgMlTrdfoGP_xGpPCktMAB7gk9IZPOI0/
