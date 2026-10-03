@@ -15,7 +15,7 @@ The portfolio goal is to show practical communications-equipment installation th
 | XG-100M control-head/dash placement | Documented | 2025-04-28 verified animated GIF |
 | Speaker grille fabrication | Documented | 3-image Instagram carousel |
 | Vehicle console speaker fitment | Documented | Installed close-up and wider view |
-| Radio body/control-head mounting | Partially documented | Control-head/dash evidence present; radio body/power/RF routing still needs documentation |
+| Radio body/control-head mounting | Further documented | Control-head/dash evidence plus selected vehicle radio context clips; power/RF routing still needs documentation |
 | Power/fusing/grounding plan | Needs write-up | Use sanitized values only |
 | Antenna/feedline routing | Needs evidence | Photos/diagram still needed |
 | Accessory/audio/PTT cabling | Needs write-up | Public-source pinout references only |
@@ -30,6 +30,8 @@ Current active media:
 | File | What It Shows | Portfolio Value |
 |---|---|---|
 | `assets/xg100m-progress-2025-04-28-01.gif` | XG-100M control head/radio visible in vehicle dash area | Installed-position evidence, control-head access, vehicle integration progress |
+| `assets/xg100m-vehicle-radio-context-2025-05-08-01.gif` | Vehicle radio/control-head context from selected ChatExport video | Additional installed-equipment context and operator-access evidence |
+| `assets/xg100m-handheld-vehicle-context-2025-05-08-01.gif` | Handheld radio and vehicle cabin context from selected ChatExport video | Field-radio context around the vehicle integration environment |
 | `assets/xg100m-speaker-integration-2025-03-30-01.jpg` | Fabricated speaker grille before installation | Mechanical fitment, fabricated protective cover, bench/workflow evidence |
 | `assets/xg100m-speaker-integration-2025-03-30-02.jpg` | Installed grille close-up | Finished panel fit, fastener placement, speaker protection |
 | `assets/xg100m-speaker-integration-2025-03-30-03.jpg` | Wider installed vehicle view | Placement, accessibility, integration into existing interior trim |
@@ -54,6 +56,12 @@ Mobile radio audio needs to be usable in a vehicle without leaving a loose speak
 3. Fabricate a low-profile grille with enough open area for audio while protecting the speaker cone.
 4. Mount the grille with visible service fasteners instead of hiding the assembly permanently.
 5. Reserve the rest of the installation documentation for sanitized diagrams and checklists: power, fusing, grounding, antenna/feedline routing, and accessory-cable interfaces.
+
+### Selected Vehicle Radio Context
+
+The selected video evidence below adds motion context around radio placement, cabin access, and field-radio handling. It strengthens the portfolio story around practical vehicle communications integration, while remaining private-review material until displays, identifiers, and surrounding details are checked.
+
+<img src="assets/xg100m-vehicle-radio-context-2025-05-08-01.gif" alt="XG-100M vehicle radio context evidence, 2025-05-08" width="48%"> <img src="assets/xg100m-handheld-vehicle-context-2025-05-08-01.gif" alt="Vehicle field-radio handling context evidence, 2025-05-08" width="48%">
 
 ### What This Demonstrates
 

@@ -10,6 +10,13 @@ Media rule: still evidence is stored as JPG; verified video evidence is stored a
 
 <img src="../assets/xg100m-progress-2025-04-28-01.gif" alt="xg100m progress 2025 04 28 01" width="48%">
 
+## Selected Vehicle Radio Context
+
+- Source: local Telegram ChatExport video review, selected by Josh for repo incorporation.
+- Redaction note: private review only until vehicle/radio display details are checked.
+
+<img src="../assets/xg100m-vehicle-radio-context-2025-05-08-01.gif" alt="xg100m vehicle radio context 2025 05 08" width="48%"> <img src="../assets/xg100m-handheld-vehicle-context-2025-05-08-01.gif" alt="xg100m handheld vehicle context 2025 05 08" width="48%">
+
 ## Xg100M Speaker Integration
 
 - Source: https://www.instagram.com/p/DH1soIIRgMlTrdfoGP_xGpPCktMAB7gk9IZPOI0/
