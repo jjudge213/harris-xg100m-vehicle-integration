@@ -1,6 +1,6 @@
 # Quarantined Instagram Evidence
 
-Private review log for evidence rows removed because the saved Instagram URL/media did not match the intended portfolio evidence.
+Review log for evidence rows removed because the saved source URL/media did not match the intended portfolio evidence.
 
 ## 2026-09-30 - Wrong Instagram media / rifle meme mismatch
 
@@ -8,4 +8,4 @@ These rows were removed from gallery, manifest retrieved-media audit, and media 
 
 | Date | Slug | URL | Removed evidence |
 |---|---|---|---|
-| 2025-04-28 | `xg100m-progress` | `https://www.instagram.com/p/DI-KA5Lxfh6FNLzf5w9CnS9sSI-r-Gdy8KZhF40/` | Resolved 2026-10-02: local source archive visually verified as XG-100M control-head/dash video and restored to active evidence. |
+| 2025-04-28 | `xg100m-progress` | `Private source archive; public-safe derivative` | Resolved 2026-10-02: local source archive visually verified as XG-100M control-head/dash video and restored to active evidence. |

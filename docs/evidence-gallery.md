@@ -1,27 +1,27 @@
 # Evidence Gallery
 
-Private gallery rebuilt from the unblocked Instagram evidence list on 2026-10-02T11:25:45.609095+00:00.
+Public-safe gallery derived from a private source archive.
 
 Media rule: still evidence is stored as JPG; verified video evidence is stored as animated GIF.
 
 ## Xg100M Progress
 
-- Source: https://www.instagram.com/p/DI-KA5Lxfh6FNLzf5w9CnS9sSI-r-Gdy8KZhF40/
+- Source: Private source archive; public-safe derivative
 
 <img src="../assets/xg100m-progress-2025-04-28-01.gif" alt="xg100m progress 2025 04 28 01" width="48%">
 
 ## Selected Vehicle Radio Context
 
-- Source: local Telegram ChatExport video review, selected by Josh for repo incorporation.
-- Redaction note: private review only until vehicle/radio display details are checked.
+- Source: Private source archive.
+- Boundary: vehicle identifiers, radio display details, IDs, frequencies, and key material are kept out of the public narrative.
 
 <img src="../assets/xg100m-vehicle-radio-context-2025-05-08-01.gif" alt="xg100m vehicle radio context 2025 05 08" width="48%"> <img src="../assets/xg100m-handheld-vehicle-context-2025-05-08-01.gif" alt="xg100m handheld vehicle context 2025 05 08" width="48%">
 
-<img src="../assets/xg100m-vehicle-install-keyloading-2025-05-15-01.gif" alt="functioning harris xg100m vehicle install 2025 05 15" width="48%">
+<img src="../assets/xg100m-vehicle-install-context-2025-05-15-01.gif" alt="functioning harris xg100m vehicle install 2025 05 15" width="48%">
 
 ## Xg100M Speaker Integration
 
-- Source: https://www.instagram.com/p/DH1soIIRgMlTrdfoGP_xGpPCktMAB7gk9IZPOI0/
+- Source: Private source archive; public-safe derivative
 
 <img src="../assets/xg100m-speaker-integration-2025-03-30-01.jpg" alt="xg100m speaker integration 2025 03 30 01" width="48%"> <img src="../assets/xg100m-speaker-integration-2025-03-30-02.jpg" alt="xg100m speaker integration 2025 03 30 02" width="48%">
 
