@@ -1,39 +1,39 @@
 # Harris XG-100M Vehicle Integration
 
-Private portfolio draft. Do not publish until the evidence and redaction review is complete.
+Private project draft. Do not publish until redaction and technical review are complete.
 
 ## Purpose
 
-This repository documents a vehicle communications integration project centered on a Harris XG-100M mobile radio installation. The current evidence set is strongest for the audio/speaker and console-fitment portion of the install: designing a clean speaker location, fabricating a protective grille, fitting it into the vehicle interior, and leaving the installation serviceable for future radio, power, RF, and accessory-cable work.
+This repository documents a vehicle communications integration project centered on a Harris XG-100M mobile radio installation. The strongest current section is the audio/speaker and console-fitment work: choosing a clean speaker location, fabricating a protective grille, fitting it into the vehicle interior, and keeping the installation serviceable for future radio, power, RF, and accessory-cable work.
 
-The portfolio goal is to show practical communications-equipment installation thinking: physical fit, usable audio, cable/interface planning, safety boundaries, and field-service style verification.
+The goal is to capture practical communications-equipment installation thinking: physical fit, usable audio, cable/interface planning, safety boundaries, and field-service style verification.
 
 ## Current Status
 
-| Area | Status | Evidence |
+| Area | Status | Notes |
 |---|---|---|
 | XG-100M control-head/dash placement | Documented | 2025-04-28 verified animated GIF |
 | Speaker grille fabrication | Documented | 3-image Instagram carousel |
 | Vehicle console speaker fitment | Documented | Installed close-up and wider view |
-| Radio body/control-head mounting | Further documented | Control-head/dash evidence plus selected vehicle radio context clips; power/RF routing still needs documentation |
+| Radio body/control-head mounting | Further documented | Control-head/dash media plus selected vehicle radio context clips; power/RF routing still needs documentation |
 | Power/fusing/grounding plan | Needs write-up | Use sanitized values only |
-| Antenna/feedline routing | Needs evidence | Photos/diagram still needed |
+| Antenna/feedline routing | Needs documentation | Photos/diagram still needed |
 | Accessory/audio/PTT cabling | Needs write-up | Public-source pinout references only |
 | RF/audio verification | Needs checklist | No operational frequencies or codeplug details |
 
-## Evidence
+## Project Media
 
 See [docs/evidence-gallery.md](docs/evidence-gallery.md) for the private review gallery.
 
 Current active media:
 
-| File | What It Shows | Portfolio Value |
+| File | What It Shows | Why It Matters |
 |---|---|---|
-| `assets/xg100m-progress-2025-04-28-01.gif` | XG-100M control head/radio visible in vehicle dash area | Installed-position evidence, control-head access, vehicle integration progress |
-| `assets/xg100m-vehicle-radio-context-2025-05-08-01.gif` | Vehicle radio/control-head context from selected ChatExport video | Additional installed-equipment context and operator-access evidence |
+| `assets/xg100m-progress-2025-04-28-01.gif` | XG-100M control head/radio visible in vehicle dash area | Shows installed position, control-head access, and integration progress |
+| `assets/xg100m-vehicle-radio-context-2025-05-08-01.gif` | Vehicle radio/control-head context from selected ChatExport video | Adds installed-equipment and operator-access context |
 | `assets/xg100m-handheld-vehicle-context-2025-05-08-01.gif` | Handheld radio and vehicle cabin context from selected ChatExport video | Field-radio context around the vehicle integration environment |
 | `assets/xg100m-vehicle-install-keyloading-2025-05-15-01.gif` | Functioning Harris XG-100M vehicle install context | Operational fitment context for the vehicle radio installation |
-| `assets/xg100m-speaker-integration-2025-03-30-01.jpg` | Fabricated speaker grille before installation | Mechanical fitment, fabricated protective cover, bench/workflow evidence |
+| `assets/xg100m-speaker-integration-2025-03-30-01.jpg` | Fabricated speaker grille before installation | Mechanical fitment, fabricated protective cover, and bench workflow |
 | `assets/xg100m-speaker-integration-2025-03-30-02.jpg` | Installed grille close-up | Finished panel fit, fastener placement, speaker protection |
 | `assets/xg100m-speaker-integration-2025-03-30-03.jpg` | Wider installed vehicle view | Placement, accessibility, integration into existing interior trim |
 
@@ -60,11 +60,11 @@ Mobile radio audio needs to be usable in a vehicle without leaving a loose speak
 
 ### Selected Vehicle Radio Context
 
-The selected video evidence below adds motion context around radio placement, cabin access, and field-radio handling. It strengthens the portfolio story around practical vehicle communications integration, while remaining private-review material until displays, identifiers, and surrounding details are checked.
+The selected video clips add motion context around radio placement, cabin access, and field-radio handling. They help tell the vehicle-integration story, but they stay private until displays, identifiers, and surrounding details are checked.
 
-<img src="assets/xg100m-vehicle-radio-context-2025-05-08-01.gif" alt="XG-100M vehicle radio context evidence, 2025-05-08" width="48%"> <img src="assets/xg100m-handheld-vehicle-context-2025-05-08-01.gif" alt="Vehicle field-radio handling context evidence, 2025-05-08" width="48%">
+<img src="assets/xg100m-vehicle-radio-context-2025-05-08-01.gif" alt="XG-100M vehicle radio context, 2025-05-08" width="48%"> <img src="assets/xg100m-handheld-vehicle-context-2025-05-08-01.gif" alt="Vehicle field-radio handling context, 2025-05-08" width="48%">
 
-<img src="assets/xg100m-vehicle-install-keyloading-2025-05-15-01.gif" alt="Functioning Harris XG-100M vehicle install evidence, 2025-05-15" width="48%">
+<img src="assets/xg100m-vehicle-install-keyloading-2025-05-15-01.gif" alt="Functioning Harris XG-100M vehicle install, 2025-05-15" width="48%">
 
 ### What This Demonstrates
 
@@ -82,9 +82,9 @@ The final public version should include a sanitized checklist using this structu
 | Physical retention | Inspect fasteners and grille movement | Pending write-up |
 | Speaker protection | Verify cone/driver is not exposed to cargo or footwell contact | Pending write-up |
 | Audio clarity | Receive/monitor non-sensitive test audio | Pending write-up |
-| Cable strain relief | Inspect route and bend radius behind panel | Pending evidence |
+| Cable strain relief | Inspect route and bend radius behind panel | Pending documentation |
 | Power safety | Confirm fuse location and wire protection | Pending sanitized diagram |
-| RF path | Confirm antenna/feedline route and connector condition | Pending evidence |
+| RF path | Confirm antenna/feedline route and connector condition | Pending documentation |
 
 ## Troubleshooting Template
 
@@ -123,6 +123,6 @@ Public diagrams should be recreated from scratch with placeholders and public in
 - Add a sanitized vehicle communications block diagram.
 - Add photos or diagrams for radio body/control-head placement.
 - Add power, fuse, and grounding notes using generic values.
-- Add antenna/feedline routing evidence if safe.
+- Add antenna/feedline routing documentation if safe.
 - Add accessory/audio/PTT cable notes based only on public or user-created references.
 - Write one or two troubleshooting notes using the field-service pattern above.
