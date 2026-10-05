@@ -74,21 +74,19 @@ The next useful revision added pass-through openings and refined the console ins
 
 <img src="assets/xg100m-control-head-console-fitment-revision-2025-03-28-01.jpg" alt="Harris XG-100M control-head fitment revision with cabling attached" width="48%"> <img src="assets/xg100m-control-head-console-fitment-revision-2025-03-28-02.jpg" alt="Wider truck console view showing Harris XG-100M fitment revision and microphone context" width="48%">
 
-### Console Fitment And Service Access
+### Power Distribution And Routing
 
-This sequence documents the console side of the XG-100M installation: open-console inspection, component placement, power-path context, and service-access planning.
+This sequence documents the XG-100M installation power distribution and routing workflow: open-console inspection, component placement, battery-area routing context, fuse/distribution placement, and service-access planning.
 
 <img src="assets/xg100m-console-install-sequence-2025-04-20-01.jpg" alt="Open vehicle console before Harris XG-100M component placement" width="48%"> <img src="assets/xg100m-console-install-sequence-2025-04-20-02.jpg" alt="Component placement trial inside vehicle console during XG-100M installation" width="48%">
 
 <img src="assets/xg100m-power-routing-context-2025-04-20-01.jpg" alt="Vehicle battery area power routing context for XG-100M installation" width="48%"> <img src="assets/xg100m-power-routing-context-2025-04-20-02.jpg" alt="Battery area physical routing context for XG-100M installation" width="48%">
 
-These photos are intentionally framed as installation documentation rather than operational radio documentation. They show fit, access, cable path, and power-path context without publishing radio programming, identifiers, or protected configuration details.
-
-### Power Distribution
-
-This cropped image documents the power-distribution/fuse-block context for the Harris vehicle install. It is included as physical installation evidence only: fuse/distribution placement, wire routing, and service access. The original image area containing readable vehicle/battery label details was removed before publication.
+The cropped fuse-block image is included as physical installation evidence only: fuse/distribution placement, wire routing, and service access. The original image area containing readable vehicle/battery label details was removed before publication.
 
 <img src="assets/xg100m-power-distribution-fuse-block-2025-04-20-01.jpg" alt="Cropped Harris XG-100M install power distribution and fuse block context" width="75%">
+
+These photos are intentionally framed as installation documentation rather than operational radio documentation. They show fit, access, cable path, and power-path context without publishing radio programming, identifiers, or protected configuration details.
 
 ### Selected Vehicle Radio Context
 

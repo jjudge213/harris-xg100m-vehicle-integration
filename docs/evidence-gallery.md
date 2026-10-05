@@ -45,18 +45,13 @@ Media rule: still evidence is stored as JPG; verified video evidence is stored a
 
 <img src="../assets/xg100m-speaker-integration-2025-03-30-03.jpg" alt="xg100m speaker integration 2025 03 30 03" width="48%">
 
-## Console Fitment And Service Access
+## Power Distribution And Routing
 
 - Source: Private source archive; public-safe derivative.
-- Boundary: these photos document fitment, cable access, power-path context, and serviceability only. Radio programming, identifiers, operational frequencies, key material, and private vehicle identifiers are not included.
+- Boundary: these photos document fitment, cable access, fused power distribution, routing context, and serviceability only. Radio programming, identifiers, operational frequencies, key material, and private vehicle identifiers are not included. Readable vehicle/battery label details were cropped out of the fuse-block image before publication.
 
 <img src="../assets/xg100m-console-install-sequence-2025-04-20-01.jpg" alt="Open vehicle console before Harris XG-100M component placement" width="48%"> <img src="../assets/xg100m-console-install-sequence-2025-04-20-02.jpg" alt="Component placement trial inside vehicle console during XG-100M installation" width="48%">
 
 <img src="../assets/xg100m-power-routing-context-2025-04-20-01.jpg" alt="Vehicle battery area power routing context for XG-100M installation" width="48%"> <img src="../assets/xg100m-power-routing-context-2025-04-20-02.jpg" alt="Battery area physical routing context for XG-100M installation" width="48%">
-
-## Power Distribution
-
-- Source: Private source archive; cropped public-safe derivative.
-- Boundary: this image documents fused power-distribution and routing context only. Readable vehicle/battery label details were cropped out before publication.
 
 <img src="../assets/xg100m-power-distribution-fuse-block-2025-04-20-01.jpg" alt="Cropped Harris XG-100M install power distribution and fuse block context" width="75%">
