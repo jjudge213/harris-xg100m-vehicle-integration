@@ -66,6 +66,12 @@ The install started with a CAD fitment pass for the control head and center-cons
 
 This sequence documents the front end of the installation workflow: model the console insert, represent the radio control head in the design, then verify that the idea makes physical sense in the actual vehicle console before moving into later speaker, power, and cable-path work.
 
+#### Fitment Revisions
+
+The next useful revision added pass-through openings and refined the console insert geometry, then checked the updated tray with the control head placed in the truck center console.
+
+<img src="assets/xg100m-control-head-console-fitment-revision-2025-03-13-01.jpg" alt="Revised CAD model for Harris XG-100M center-console control-head insert" width="48%"> <img src="assets/xg100m-control-head-console-fitment-revision-2025-03-14-01.jpg" alt="Revised Harris XG-100M control-head insert fitment in truck console" width="48%">
+
 ### Console Fitment And Service Access
 
 This sequence documents the console side of the XG-100M installation: open-console inspection, component placement, power-path context, and service-access planning.
@@ -125,6 +131,8 @@ Current active media:
 | `assets/xg100m-control-head-console-cad-fitment-2025-03-11-01.jpg` | Initial CAD model for the center-console control-head tray | Shows the first pass at matching the control-head footprint to the truck console opening |
 | `assets/xg100m-control-head-console-cad-fitment-2025-03-11-02.jpg` | CAD fitment model with control-head body represented | Shows early height, clearance, and retention planning before physical install work |
 | `assets/xg100m-control-head-console-fit-check-2025-03-12-01.jpg` | Physical fit check in the truck center console | Connects the CAD concept to the actual console pocket and control-head placement |
+| `assets/xg100m-control-head-console-fitment-revision-2025-03-13-01.jpg` | Revised CAD model for the center-console tray | Shows added pass-through openings and support-leg geometry for the insert |
+| `assets/xg100m-control-head-console-fitment-revision-2025-03-14-01.jpg` | Physical fitment revision inside the truck console | Shows the revised insert and control head placed in the console pocket |
 | `assets/xg100m-speaker-integration-2025-03-30-01.jpg` | Fabricated speaker grille before installation | Mechanical fitment, fabricated protective cover, and bench workflow |
 | `assets/xg100m-speaker-integration-2025-03-30-02.jpg` | Installed grille close-up | Finished panel fit, fastener placement, speaker protection |
 | `assets/xg100m-speaker-integration-2025-03-30-03.jpg` | Wider installed vehicle view | Placement, accessibility, integration into existing interior trim |
