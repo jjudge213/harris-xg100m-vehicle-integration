@@ -49,6 +49,9 @@ Current active media:
 | `assets/xg100m-vehicle-radio-context-2025-05-08-01.gif` | Vehicle radio/control-head context from selected ChatExport video | Adds installed-equipment and operator-access context |
 | `assets/xg100m-handheld-vehicle-context-2025-05-08-01.gif` | Handheld radio and vehicle cabin context from selected ChatExport video | Field-radio context around the vehicle integration environment |
 | `assets/xg100m-vehicle-install-context-2025-05-15-01.gif` | Functioning Harris XG-100M vehicle install context | Operational fitment context for the vehicle radio installation |
+| `assets/xg100m-control-head-console-cad-fitment-2025-03-11-01.jpg` | Initial CAD model for the center-console control-head tray | Shows the first pass at matching the control-head footprint to the truck console opening |
+| `assets/xg100m-control-head-console-cad-fitment-2025-03-11-02.jpg` | CAD fitment model with control-head body represented | Shows early height, clearance, and retention planning before physical install work |
+| `assets/xg100m-control-head-console-fit-check-2025-03-12-01.jpg` | Physical fit check in the truck center console | Connects the CAD concept to the actual console pocket and control-head placement |
 | `assets/xg100m-speaker-integration-2025-03-30-01.jpg` | Fabricated speaker grille before installation | Mechanical fitment, fabricated protective cover, and bench workflow |
 | `assets/xg100m-speaker-integration-2025-03-30-02.jpg` | Installed grille close-up | Finished panel fit, fastener placement, speaker protection |
 | `assets/xg100m-speaker-integration-2025-03-30-03.jpg` | Wider installed vehicle view | Placement, accessibility, integration into existing interior trim |
@@ -90,6 +93,16 @@ Mobile radio audio needs to be usable in a vehicle without leaving a loose speak
 3. Fabricate a low-profile grille with enough open area for audio while protecting the speaker cone.
 4. Mount the grille with visible service fasteners instead of hiding the assembly permanently.
 5. Reserve the rest of the installation documentation for sanitized diagrams and checklists: power, fusing, grounding, antenna/feedline routing, and accessory-cable interfaces.
+
+### Initial CAD Modeling And Control-Head Fitment
+
+The install started with a CAD fitment pass for the control head and center-console pocket. These images show the transition from a simple tray/retention model to an initial physical fit check in the truck console.
+
+<img src="assets/xg100m-control-head-console-cad-fitment-2025-03-11-01.jpg" alt="Initial CAD model for Harris XG-100M control-head center-console tray" width="48%"> <img src="assets/xg100m-control-head-console-cad-fitment-2025-03-11-02.jpg" alt="CAD model checking Harris XG-100M control-head fitment and retention" width="48%">
+
+<img src="assets/xg100m-control-head-console-fit-check-2025-03-12-01.jpg" alt="Physical Harris XG-100M control-head fit check in truck center console" width="48%">
+
+This sequence documents the front end of the installation workflow: model the console insert, represent the radio control head in the design, then verify that the idea makes physical sense in the actual vehicle console before moving into later speaker, power, and cable-path work.
 
 ### Console Fitment And Service Access
 
