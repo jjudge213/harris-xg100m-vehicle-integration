@@ -64,7 +64,7 @@ The install started with a CAD fitment pass for the control head and center-cons
 
 <img src="assets/xg100m-control-head-console-cad-fitment-2025-03-11-01.jpg" alt="Initial CAD model for Harris XG-100M control-head center-console tray" width="48%"> <img src="assets/xg100m-control-head-console-cad-fitment-2025-03-11-02.jpg" alt="CAD model checking Harris XG-100M control-head fitment and retention" width="48%">
 
-<img src="assets/xg100m-control-head-console-fit-check-2025-03-12-01.jpg" alt="Physical Harris XG-100M control-head fit check in truck center console" width="48%">
+<img src="assets/xg100m-control-head-console-fit-check-2025-03-12-01.jpg" alt="Physical Harris XG-100M control-head fit check in truck center console" width="75%">
 
 This sequence documents the front end of the installation workflow: model the console insert, represent the radio control head in the design, then verify that the idea makes physical sense in the actual vehicle console before moving into later speaker, power, and cable-path work.
 
@@ -96,7 +96,7 @@ The selected video clips add motion context around radio placement, cabin access
 
 <img src="assets/xg100m-vehicle-radio-context-2025-05-08-01.gif" alt="XG-100M vehicle radio context, 2025-05-08" width="48%"> <img src="assets/xg100m-handheld-vehicle-context-2025-05-08-01.gif" alt="Vehicle field-radio handling context, 2025-05-08" width="48%">
 
-<img src="assets/xg100m-vehicle-install-context-2025-05-15-01.gif" alt="Functioning Harris XG-100M vehicle install, 2025-05-15" width="48%">
+<img src="assets/xg100m-vehicle-install-context-2025-05-15-01.gif" alt="Functioning Harris XG-100M vehicle install, 2025-05-15" width="75%">
 
 ### What This Demonstrates
 

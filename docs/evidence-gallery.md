@@ -8,7 +8,7 @@ Media rule: still evidence is stored as JPG; verified video evidence is stored a
 
 - Source: Private source archive; public-safe derivative
 
-<img src="../assets/xg100m-progress-2025-04-28-01.gif" alt="xg100m progress 2025 04 28 01" width="48%">
+<img src="../assets/xg100m-progress-2025-04-28-01.gif" alt="xg100m progress 2025 04 28 01" width="75%">
 
 ## Selected Vehicle Radio Context
 
@@ -17,7 +17,7 @@ Media rule: still evidence is stored as JPG; verified video evidence is stored a
 
 <img src="../assets/xg100m-vehicle-radio-context-2025-05-08-01.gif" alt="xg100m vehicle radio context 2025 05 08" width="48%"> <img src="../assets/xg100m-handheld-vehicle-context-2025-05-08-01.gif" alt="xg100m handheld vehicle context 2025 05 08" width="48%">
 
-<img src="../assets/xg100m-vehicle-install-context-2025-05-15-01.gif" alt="functioning harris xg100m vehicle install 2025 05 15" width="48%">
+<img src="../assets/xg100m-vehicle-install-context-2025-05-15-01.gif" alt="functioning harris xg100m vehicle install 2025 05 15" width="75%">
 
 ## Initial CAD Modeling And Control-Head Fitment
 
@@ -26,7 +26,7 @@ Media rule: still evidence is stored as JPG; verified video evidence is stored a
 
 <img src="../assets/xg100m-control-head-console-cad-fitment-2025-03-11-01.jpg" alt="Initial CAD model for Harris XG-100M control-head center-console tray" width="48%"> <img src="../assets/xg100m-control-head-console-cad-fitment-2025-03-11-02.jpg" alt="CAD model checking Harris XG-100M control-head fitment and retention" width="48%">
 
-<img src="../assets/xg100m-control-head-console-fit-check-2025-03-12-01.jpg" alt="Physical Harris XG-100M control-head fit check in truck center console" width="48%">
+<img src="../assets/xg100m-control-head-console-fit-check-2025-03-12-01.jpg" alt="Physical Harris XG-100M control-head fit check in truck center console" width="75%">
 
 ### Fitment Revisions
 
@@ -43,7 +43,7 @@ Media rule: still evidence is stored as JPG; verified video evidence is stored a
 
 <img src="../assets/xg100m-speaker-integration-2025-03-30-01.jpg" alt="xg100m speaker integration 2025 03 30 01" width="48%"> <img src="../assets/xg100m-speaker-integration-2025-03-30-02.jpg" alt="xg100m speaker integration 2025 03 30 02" width="48%">
 
-<img src="../assets/xg100m-speaker-integration-2025-03-30-03.jpg" alt="xg100m speaker integration 2025 03 30 03" width="48%">
+<img src="../assets/xg100m-speaker-integration-2025-03-30-03.jpg" alt="xg100m speaker integration 2025 03 30 03" width="75%">
 
 ## Power Distribution And Routing
 
