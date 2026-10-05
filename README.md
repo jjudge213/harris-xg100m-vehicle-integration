@@ -1,12 +1,20 @@
 # Harris XG-100M Vehicle Integration
 
-Private project draft. Do not publish until redaction and technical review are complete.
+Public-safe project case study for vehicle communications integration around a Harris XG-100M mobile radio installation.
 
 ## Purpose
 
 This repository documents a vehicle communications integration project centered on a Harris XG-100M mobile radio installation. The strongest current section is the audio/speaker and console-fitment work: choosing a clean speaker location, fabricating a protective grille, fitting it into the vehicle interior, and keeping the installation serviceable for future radio, power, RF, and accessory-cable work.
 
 The goal is to capture practical communications-equipment installation thinking: physical fit, usable audio, cable/interface planning, safety boundaries, and field-service style verification.
+
+## Key Results
+
+- Integrated a Harris XG-100M control-head/radio setup into a vehicle cabin with operator access in mind.
+- Designed and fabricated a low-profile speaker grille instead of leaving the speaker loose or exposed.
+- Fit the speaker assembly into existing interior trim while preserving serviceability through visible fasteners.
+- Documented the next installation layers to finish publicly: power/fusing, grounding, RF path, antenna/feedline routing, and accessory cabling.
+- Kept radio configuration, identifiers, key material, and private vehicle details out of the public-facing write-up.
 
 ## Current Status
 
@@ -23,7 +31,7 @@ The goal is to capture practical communications-equipment installation thinking:
 
 ## Project Media
 
-See [docs/evidence-gallery.md](docs/evidence-gallery.md) for the private review gallery.
+See [docs/evidence-gallery.md](docs/evidence-gallery.md) for the media gallery.
 
 Current active media:
 
@@ -38,6 +46,17 @@ Current active media:
 | `assets/xg100m-speaker-integration-2025-03-30-03.jpg` | Wider installed vehicle view | Placement, accessibility, integration into existing interior trim |
 
 ## Installation Narrative
+
+### Sanitized Integration Layout
+
+```mermaid
+flowchart LR
+    battery[Vehicle power<br/>fused / protected] --> radioBody[Harris XG-100M radio body]
+    radioBody --> controlHead[Control head<br/>operator access]
+    radioBody --> speaker[External speaker<br/>protected grille]
+    radioBody --> antenna[Antenna / feedline<br/>sanitized route]
+    radioBody --> accessory[Accessory cabling<br/>audio / PTT / service]
+```
 
 ### Problem
 
@@ -60,7 +79,7 @@ Mobile radio audio needs to be usable in a vehicle without leaving a loose speak
 
 ### Selected Vehicle Radio Context
 
-The selected video clips add motion context around radio placement, cabin access, and field-radio handling. They help tell the vehicle-integration story, but they stay private until displays, identifiers, and surrounding details are checked.
+The selected video clips add motion context around radio placement, cabin access, and field-radio handling. Public-facing clips should stay limited to sanitized views with displays, identifiers, and surrounding details checked.
 
 <img src="assets/xg100m-vehicle-radio-context-2025-05-08-01.gif" alt="XG-100M vehicle radio context, 2025-05-08" width="48%"> <img src="assets/xg100m-handheld-vehicle-context-2025-05-08-01.gif" alt="Vehicle field-radio handling context, 2025-05-08" width="48%">
 
@@ -120,7 +139,6 @@ Public diagrams should be recreated from scratch with placeholders and public in
 
 ## Next Work
 
-- Add a sanitized vehicle communications block diagram.
 - Add photos or diagrams for radio body/control-head placement.
 - Add power, fuse, and grounding notes using generic values.
 - Add antenna/feedline routing documentation if safe.
