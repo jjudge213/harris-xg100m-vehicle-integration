@@ -16,6 +16,14 @@ The goal is to capture practical communications-equipment installation thinking:
 - Documented the next installation layers to finish publicly: power/fusing, grounding, RF path, antenna/feedline routing, and accessory cabling.
 - Kept radio configuration, identifiers, key material, and private vehicle details out of the public-facing write-up.
 
+## Resume Bullets
+
+- Installed and documented Harris XG-100M mobile-radio vehicle integration with emphasis on operator access, serviceability, audio usability, and safe public documentation.
+- Designed and fabricated a low-profile protected speaker grille for vehicle-console integration while preserving access for inspection and future troubleshooting.
+- Planned public-safe follow-on documentation for mobile radio power, fusing, grounding, RF feedline, antenna, and accessory/audio cabling paths.
+- Applied field-service style verification thinking to physical retention, speaker protection, cable strain relief, audio clarity, and RF-path inspection.
+- Maintained strict publication boundaries around radio programming, operational identifiers, key material, vehicle details, and private infrastructure.
+
 ## Current Status
 
 | Area | Status | Notes |
