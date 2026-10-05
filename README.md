@@ -8,6 +8,19 @@ This repository documents a vehicle communications integration project centered 
 
 The goal is to capture practical communications-equipment installation thinking: physical fit, usable audio, cable/interface planning, safety boundaries, and field-service style verification.
 
+## System Diagram
+
+```mermaid
+flowchart LR
+    battery[Vehicle power] --> fuseBlock[Fuse / distribution block]
+    fuseBlock --> route[Protected power routing]
+    route --> radioBody[Harris XG-100M radio body]
+    radioBody --> controlHead[Control head<br/>operator access]
+    radioBody --> speaker[External speaker<br/>protected grille]
+    radioBody --> antenna[Antenna / feedline<br/>sanitized route]
+    radioBody --> accessory[Accessory cabling<br/>audio / PTT / service]
+```
+
 ## Key Results
 
 - Integrated a Harris XG-100M control-head/radio setup into a vehicle cabin with operator access in mind.
@@ -25,19 +38,6 @@ The goal is to capture practical communications-equipment installation thinking:
 - Maintained strict publication boundaries around radio programming, operational identifiers, key material, vehicle details, and private infrastructure.
 
 ## Installation Narrative
-
-### Sanitized Integration Layout
-
-```mermaid
-flowchart LR
-    battery[Vehicle power] --> fuseBlock[Fuse / distribution block]
-    fuseBlock --> route[Protected power routing]
-    route --> radioBody[Harris XG-100M radio body]
-    radioBody --> controlHead[Control head<br/>operator access]
-    radioBody --> speaker[External speaker<br/>protected grille]
-    radioBody --> antenna[Antenna / feedline<br/>sanitized route]
-    radioBody --> accessory[Accessory cabling<br/>audio / PTT / service]
-```
 
 ### Problem
 
