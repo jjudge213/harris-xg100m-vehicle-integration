@@ -2,12 +2,6 @@
 
 Public-safe project case study for vehicle communications integration around a Harris XG-100M mobile radio installation.
 
-## Purpose
-
-This repository documents a vehicle communications integration project centered on a Harris XG-100M mobile radio installation. The strongest current section is the audio/speaker and console-fitment work: choosing a clean speaker location, fabricating a protective grille, fitting it into the vehicle interior, and keeping the installation serviceable for future radio, power, RF, and accessory-cable work.
-
-The goal is to capture practical communications-equipment installation thinking: physical fit, usable audio, cable/interface planning, safety boundaries, and field-service style verification.
-
 ## System Diagram
 
 ```mermaid
@@ -20,6 +14,12 @@ flowchart LR
     radioBody --> antenna[Antenna / feedline<br/>sanitized route]
     radioBody --> accessory[Accessory cabling<br/>audio / PTT / service]
 ```
+
+## Purpose
+
+This repository documents a vehicle communications integration project centered on a Harris XG-100M mobile radio installation. The strongest current section is the audio/speaker and console-fitment work: choosing a clean speaker location, fabricating a protective grille, fitting it into the vehicle interior, and keeping the installation serviceable for future radio, power, RF, and accessory-cable work.
+
+The goal is to capture practical communications-equipment installation thinking: physical fit, usable audio, cable/interface planning, safety boundaries, and field-service style verification.
 
 ## Key Results
 
