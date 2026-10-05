@@ -24,49 +24,6 @@ The goal is to capture practical communications-equipment installation thinking:
 - Applied field-service style verification thinking to physical retention, speaker protection, cable strain relief, audio clarity, and RF-path inspection.
 - Maintained strict publication boundaries around radio programming, operational identifiers, key material, vehicle details, and private infrastructure.
 
-## Current Status
-
-| Area | Status | Notes |
-|---|---|---|
-| XG-100M control-head/dash placement | Documented | 2025-04-28 verified animated GIF |
-| Speaker grille fabrication | Documented | 3-image Instagram carousel |
-| Vehicle console speaker fitment | Documented | Installed close-up and wider view |
-| Radio body/control-head mounting | Further documented | Control-head/dash media plus selected vehicle radio context clips; power/RF routing still needs documentation |
-| Power/fusing/grounding plan | Partially documented | Power-distribution/fuse-block context added; grounding details still need sanitized write-up |
-| Antenna/feedline routing | Needs documentation | Photos/diagram still needed |
-| Accessory/audio/PTT cabling | Needs write-up | Public-source pinout references only |
-| RF/audio verification | Needs checklist | No operational frequencies or codeplug details |
-
-## Project Media
-
-See [docs/evidence-gallery.md](docs/evidence-gallery.md) for the media gallery.
-
-Current active media:
-
-| File | What It Shows | Why It Matters |
-|---|---|---|
-| `assets/xg100m-progress-2025-04-28-01.gif` | XG-100M control head/radio visible in vehicle dash area | Shows installed position, control-head access, and integration progress |
-| `assets/xg100m-vehicle-radio-context-2025-05-08-01.gif` | Vehicle radio/control-head context from selected ChatExport video | Adds installed-equipment and operator-access context |
-| `assets/xg100m-handheld-vehicle-context-2025-05-08-01.gif` | Handheld radio and vehicle cabin context from selected ChatExport video | Field-radio context around the vehicle integration environment |
-| `assets/xg100m-vehicle-install-context-2025-05-15-01.gif` | Functioning Harris XG-100M vehicle install context | Operational fitment context for the vehicle radio installation |
-| `assets/xg100m-control-head-console-cad-fitment-2025-03-11-01.jpg` | Initial CAD model for the center-console control-head tray | Shows the first pass at matching the control-head footprint to the truck console opening |
-| `assets/xg100m-control-head-console-cad-fitment-2025-03-11-02.jpg` | CAD fitment model with control-head body represented | Shows early height, clearance, and retention planning before physical install work |
-| `assets/xg100m-control-head-console-fit-check-2025-03-12-01.jpg` | Physical fit check in the truck center console | Connects the CAD concept to the actual console pocket and control-head placement |
-| `assets/xg100m-control-head-console-fitment-revision-2025-03-13-01.jpg` | Revised CAD model for the center-console tray | Shows added pass-through openings and support-leg geometry for the insert |
-| `assets/xg100m-control-head-console-fitment-revision-2025-03-14-01.jpg` | Physical fitment revision inside the truck console | Shows the revised insert and control head placed in the console pocket |
-| `assets/xg100m-control-head-console-fitment-revision-2025-03-28-01.jpg` | Control-head fitment revision with cabling attached | Shows cable clearance and operator-access check during fitment |
-| `assets/xg100m-control-head-console-fitment-revision-2025-03-28-02.jpg` | Wider console fitment revision with microphone context | Shows control-head placement, microphone/cable stowage, and console accessibility |
-| `assets/xg100m-speaker-integration-2025-03-30-01.jpg` | Fabricated speaker grille before installation | Mechanical fitment, fabricated protective cover, and bench workflow |
-| `assets/xg100m-speaker-integration-2025-03-30-02.jpg` | Installed grille close-up | Finished panel fit, fastener placement, speaker protection |
-| `assets/xg100m-speaker-integration-2025-03-30-03.jpg` | Wider installed vehicle view | Placement, accessibility, integration into existing interior trim |
-| `assets/xg100m-console-install-sequence-2025-04-20-01.jpg` | Open console storage area before component placement | Shows available space, access constraints, and starting point for console integration |
-| `assets/xg100m-console-install-sequence-2025-04-20-02.jpg` | Component positioning inside the open console | Shows fitment trial, cable handling, and service-access planning |
-| `assets/xg100m-power-routing-context-2025-04-20-01.jpg` | Power-routing context at the vehicle battery area | Documents the installation environment for power-path planning without exposing radio programming details |
-| `assets/xg100m-power-routing-context-2025-04-20-02.jpg` | Battery-area routing context with cover and surrounding structure | Shows physical routing constraints and inspection access around the power source |
-| `assets/xg100m-power-distribution-fuse-block-2025-04-20-01.jpg` | Power-distribution/fuse-block context for the Harris install | Shows fused distribution and physical routing context with identifying label area cropped out |
-| `assets/xg100m-control-head-console-placement-2025-04-20-01.jpg` | Control head placed inside the console | Shows operator-access and stowage concept during fitment |
-| `assets/xg100m-console-closed-serviceability-2025-04-20-01.jpg` | Console closed with microphone/control cabling accessible | Shows serviceability and cable exit path after the console is returned to normal use |
-
 ## Installation Narrative
 
 ### Sanitized Integration Layout
@@ -149,6 +106,49 @@ The selected video clips add motion context around radio placement, cabin access
 - Fabrication of a functional part rather than a decorative cover.
 - Awareness of serviceability, fastener access, and future troubleshooting.
 - Communications installation thinking: audio path, operator usability, cable planning, and sensitive-configuration boundaries.
+
+## Current Status
+
+| Area | Status | Notes |
+|---|---|---|
+| XG-100M control-head/dash placement | Documented | 2025-04-28 verified animated GIF |
+| Speaker grille fabrication | Documented | 3-image Instagram carousel |
+| Vehicle console speaker fitment | Documented | Installed close-up and wider view |
+| Radio body/control-head mounting | Further documented | Control-head/dash media plus selected vehicle radio context clips; power/RF routing still needs documentation |
+| Power/fusing/grounding plan | Partially documented | Power-distribution/fuse-block context added; grounding details still need sanitized write-up |
+| Antenna/feedline routing | Needs documentation | Photos/diagram still needed |
+| Accessory/audio/PTT cabling | Needs write-up | Public-source pinout references only |
+| RF/audio verification | Needs checklist | No operational frequencies or codeplug details |
+
+## Project Media
+
+See [docs/evidence-gallery.md](docs/evidence-gallery.md) for the media gallery.
+
+Current active media:
+
+| File | What It Shows | Why It Matters |
+|---|---|---|
+| `assets/xg100m-progress-2025-04-28-01.gif` | XG-100M control head/radio visible in vehicle dash area | Shows installed position, control-head access, and integration progress |
+| `assets/xg100m-vehicle-radio-context-2025-05-08-01.gif` | Vehicle radio/control-head context from selected ChatExport video | Adds installed-equipment and operator-access context |
+| `assets/xg100m-handheld-vehicle-context-2025-05-08-01.gif` | Handheld radio and vehicle cabin context from selected ChatExport video | Field-radio context around the vehicle integration environment |
+| `assets/xg100m-vehicle-install-context-2025-05-15-01.gif` | Functioning Harris XG-100M vehicle install context | Operational fitment context for the vehicle radio installation |
+| `assets/xg100m-control-head-console-cad-fitment-2025-03-11-01.jpg` | Initial CAD model for the center-console control-head tray | Shows the first pass at matching the control-head footprint to the truck console opening |
+| `assets/xg100m-control-head-console-cad-fitment-2025-03-11-02.jpg` | CAD fitment model with control-head body represented | Shows early height, clearance, and retention planning before physical install work |
+| `assets/xg100m-control-head-console-fit-check-2025-03-12-01.jpg` | Physical fit check in the truck center console | Connects the CAD concept to the actual console pocket and control-head placement |
+| `assets/xg100m-control-head-console-fitment-revision-2025-03-13-01.jpg` | Revised CAD model for the center-console tray | Shows added pass-through openings and support-leg geometry for the insert |
+| `assets/xg100m-control-head-console-fitment-revision-2025-03-14-01.jpg` | Physical fitment revision inside the truck console | Shows the revised insert and control head placed in the console pocket |
+| `assets/xg100m-control-head-console-fitment-revision-2025-03-28-01.jpg` | Control-head fitment revision with cabling attached | Shows cable clearance and operator-access check during fitment |
+| `assets/xg100m-control-head-console-fitment-revision-2025-03-28-02.jpg` | Wider console fitment revision with microphone context | Shows control-head placement, microphone/cable stowage, and console accessibility |
+| `assets/xg100m-speaker-integration-2025-03-30-01.jpg` | Fabricated speaker grille before installation | Mechanical fitment, fabricated protective cover, and bench workflow |
+| `assets/xg100m-speaker-integration-2025-03-30-02.jpg` | Installed grille close-up | Finished panel fit, fastener placement, speaker protection |
+| `assets/xg100m-speaker-integration-2025-03-30-03.jpg` | Wider installed vehicle view | Placement, accessibility, integration into existing interior trim |
+| `assets/xg100m-console-install-sequence-2025-04-20-01.jpg` | Open console storage area before component placement | Shows available space, access constraints, and starting point for console integration |
+| `assets/xg100m-console-install-sequence-2025-04-20-02.jpg` | Component positioning inside the open console | Shows fitment trial, cable handling, and service-access planning |
+| `assets/xg100m-power-routing-context-2025-04-20-01.jpg` | Power-routing context at the vehicle battery area | Documents the installation environment for power-path planning without exposing radio programming details |
+| `assets/xg100m-power-routing-context-2025-04-20-02.jpg` | Battery-area routing context with cover and surrounding structure | Shows physical routing constraints and inspection access around the power source |
+| `assets/xg100m-power-distribution-fuse-block-2025-04-20-01.jpg` | Power-distribution/fuse-block context for the Harris install | Shows fused distribution and physical routing context with identifying label area cropped out |
+| `assets/xg100m-control-head-console-placement-2025-04-20-01.jpg` | Control head placed inside the console | Shows operator-access and stowage concept during fitment |
+| `assets/xg100m-console-closed-serviceability-2025-04-20-01.jpg` | Console closed with microphone/control cabling accessible | Shows serviceability and cable exit path after the console is returned to normal use |
 
 ## Verification Plan
 
