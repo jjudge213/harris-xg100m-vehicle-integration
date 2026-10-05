@@ -45,8 +45,6 @@ Media rule: still evidence is stored as JPG; verified video evidence is stored a
 
 <img src="../assets/xg100m-power-routing-context-2025-04-20-01.jpg" alt="Vehicle battery area power routing context for XG-100M installation" width="48%"> <img src="../assets/xg100m-power-routing-context-2025-04-20-02.jpg" alt="Battery area physical routing context for XG-100M installation" width="48%">
 
-<img src="../assets/xg100m-control-head-console-placement-2025-04-20-01.jpg" alt="Harris XG-100M control head placed inside vehicle console" width="48%"> <img src="../assets/xg100m-console-closed-serviceability-2025-04-20-01.jpg" alt="Vehicle console closed with Harris microphone and cabling accessible" width="48%">
-
 ## Power Distribution
 
 - Source: Private source archive; cropped public-safe derivative.
