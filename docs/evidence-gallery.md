@@ -31,9 +31,11 @@ Media rule: still evidence is stored as JPG; verified video evidence is stored a
 ### Fitment Revisions
 
 - Source: Private source archive; public-safe derivative.
-- Boundary: these images document revised console-insert geometry and control-head fitment only. Radio programming, identifiers, operational frequencies, key material, and private vehicle identifiers are not included.
+- Boundary: these images document revised console-insert geometry, control-head fitment, cable clearance, and microphone stowage only. Radio programming, identifiers, operational frequencies, key material, and private vehicle identifiers are not included.
 
 <img src="../assets/xg100m-control-head-console-fitment-revision-2025-03-13-01.jpg" alt="Revised CAD model for Harris XG-100M center-console control-head insert" width="48%"> <img src="../assets/xg100m-control-head-console-fitment-revision-2025-03-14-01.jpg" alt="Revised Harris XG-100M control-head insert fitment in truck console" width="48%">
+
+<img src="../assets/xg100m-control-head-console-fitment-revision-2025-03-28-01.jpg" alt="Harris XG-100M control-head fitment revision with cabling attached" width="48%"> <img src="../assets/xg100m-control-head-console-fitment-revision-2025-03-28-02.jpg" alt="Wider truck console view showing Harris XG-100M fitment revision and microphone context" width="48%">
 
 ## Xg100M Speaker Integration
 

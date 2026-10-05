@@ -68,9 +68,11 @@ This sequence documents the front end of the installation workflow: model the co
 
 #### Fitment Revisions
 
-The next useful revision added pass-through openings and refined the console insert geometry, then checked the updated tray with the control head placed in the truck center console.
+The next useful revision added pass-through openings and refined the console insert geometry, then checked the updated tray with the control head, cabling, and microphone placement in the truck center console.
 
 <img src="assets/xg100m-control-head-console-fitment-revision-2025-03-13-01.jpg" alt="Revised CAD model for Harris XG-100M center-console control-head insert" width="48%"> <img src="assets/xg100m-control-head-console-fitment-revision-2025-03-14-01.jpg" alt="Revised Harris XG-100M control-head insert fitment in truck console" width="48%">
+
+<img src="assets/xg100m-control-head-console-fitment-revision-2025-03-28-01.jpg" alt="Harris XG-100M control-head fitment revision with cabling attached" width="48%"> <img src="assets/xg100m-control-head-console-fitment-revision-2025-03-28-02.jpg" alt="Wider truck console view showing Harris XG-100M fitment revision and microphone context" width="48%">
 
 ### Console Fitment And Service Access
 
@@ -133,6 +135,8 @@ Current active media:
 | `assets/xg100m-control-head-console-fit-check-2025-03-12-01.jpg` | Physical fit check in the truck center console | Connects the CAD concept to the actual console pocket and control-head placement |
 | `assets/xg100m-control-head-console-fitment-revision-2025-03-13-01.jpg` | Revised CAD model for the center-console tray | Shows added pass-through openings and support-leg geometry for the insert |
 | `assets/xg100m-control-head-console-fitment-revision-2025-03-14-01.jpg` | Physical fitment revision inside the truck console | Shows the revised insert and control head placed in the console pocket |
+| `assets/xg100m-control-head-console-fitment-revision-2025-03-28-01.jpg` | Control-head fitment revision with cabling attached | Shows cable clearance and operator-access check during fitment |
+| `assets/xg100m-control-head-console-fitment-revision-2025-03-28-02.jpg` | Wider console fitment revision with microphone context | Shows control-head placement, microphone/cable stowage, and console accessibility |
 | `assets/xg100m-speaker-integration-2025-03-30-01.jpg` | Fabricated speaker grille before installation | Mechanical fitment, fabricated protective cover, and bench workflow |
 | `assets/xg100m-speaker-integration-2025-03-30-02.jpg` | Installed grille close-up | Finished panel fit, fastener placement, speaker protection |
 | `assets/xg100m-speaker-integration-2025-03-30-03.jpg` | Wider installed vehicle view | Placement, accessibility, integration into existing interior trim |
