@@ -32,7 +32,7 @@ The goal is to capture practical communications-equipment installation thinking:
 | Speaker grille fabrication | Documented | 3-image Instagram carousel |
 | Vehicle console speaker fitment | Documented | Installed close-up and wider view |
 | Radio body/control-head mounting | Further documented | Control-head/dash media plus selected vehicle radio context clips; power/RF routing still needs documentation |
-| Power/fusing/grounding plan | Needs write-up | Use sanitized values only |
+| Power/fusing/grounding plan | Partially documented | Power-distribution/fuse-block context added; grounding details still need sanitized write-up |
 | Antenna/feedline routing | Needs documentation | Photos/diagram still needed |
 | Accessory/audio/PTT cabling | Needs write-up | Public-source pinout references only |
 | RF/audio verification | Needs checklist | No operational frequencies or codeplug details |
@@ -63,6 +63,7 @@ Current active media:
 | `assets/xg100m-console-install-sequence-2025-04-20-02.jpg` | Component positioning inside the open console | Shows fitment trial, cable handling, and service-access planning |
 | `assets/xg100m-power-routing-context-2025-04-20-01.jpg` | Power-routing context at the vehicle battery area | Documents the installation environment for power-path planning without exposing radio programming details |
 | `assets/xg100m-power-routing-context-2025-04-20-02.jpg` | Battery-area routing context with cover and surrounding structure | Shows physical routing constraints and inspection access around the power source |
+| `assets/xg100m-power-distribution-fuse-block-2025-04-20-01.jpg` | Power-distribution/fuse-block context for the Harris install | Shows fused distribution and physical routing context with identifying label area cropped out |
 | `assets/xg100m-control-head-console-placement-2025-04-20-01.jpg` | Control head placed inside the console | Shows operator-access and stowage concept during fitment |
 | `assets/xg100m-console-closed-serviceability-2025-04-20-01.jpg` | Console closed with microphone/control cabling accessible | Shows serviceability and cable exit path after the console is returned to normal use |
 
@@ -127,6 +128,12 @@ This sequence documents the console side of the XG-100M installation: open-conso
 <img src="assets/xg100m-control-head-console-placement-2025-04-20-01.jpg" alt="Harris XG-100M control head placed inside vehicle console" width="48%"> <img src="assets/xg100m-console-closed-serviceability-2025-04-20-01.jpg" alt="Vehicle console closed with Harris microphone and cabling accessible" width="48%">
 
 These photos are intentionally framed as installation documentation rather than operational radio documentation. They show fit, access, cable path, and serviceability without publishing radio programming, identifiers, or protected configuration details.
+
+### Power Distribution
+
+This cropped image documents the power-distribution/fuse-block context for the Harris vehicle install. It is included as physical installation evidence only: fuse/distribution placement, wire routing, and service access. The original image area containing readable vehicle/battery label details was removed before publication.
+
+<img src="assets/xg100m-power-distribution-fuse-block-2025-04-20-01.jpg" alt="Cropped Harris XG-100M install power distribution and fuse block context" width="75%">
 
 ### Selected Vehicle Radio Context
 
