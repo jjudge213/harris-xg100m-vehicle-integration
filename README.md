@@ -2,17 +2,15 @@
 
 Public-safe project case study for vehicle communications integration around a Harris XG-100M mobile radio installation.
 
-## System Diagram
-
 ```mermaid
 flowchart LR
-    battery[Vehicle power] --> fuseBlock[Fuse / distribution block]
-    fuseBlock --> route[Protected power routing]
-    route --> radioBody[Harris XG-100M radio body]
-    radioBody --> controlHead[Control head<br/>operator access]
-    radioBody --> speaker[External speaker<br/>protected grille]
-    radioBody --> antenna[Antenna / feedline<br/>sanitized route]
-    radioBody --> accessory[Accessory cabling<br/>audio / PTT / service]
+    battery["Vehicle power"] --> fuseBlock["Fuse and distribution block"]
+    fuseBlock --> route["Protected power routing"]
+    route --> radioBody["Harris XG-100M radio body"]
+    radioBody --> controlHead["Control head - operator access"]
+    radioBody --> speaker["External speaker - protected grille"]
+    radioBody --> antenna["Antenna and feedline - sanitized route"]
+    radioBody --> accessory["Accessory cabling - audio, PTT, service"]
 ```
 
 ## Purpose
