@@ -30,7 +30,9 @@ The goal is to capture practical communications-equipment installation thinking:
 
 ```mermaid
 flowchart LR
-    battery[Vehicle power<br/>fused / protected] --> radioBody[Harris XG-100M radio body]
+    battery[Vehicle power] --> fuseBlock[Fuse / distribution block]
+    fuseBlock --> route[Protected power routing]
+    route --> radioBody[Harris XG-100M radio body]
     radioBody --> controlHead[Control head<br/>operator access]
     radioBody --> speaker[External speaker<br/>protected grille]
     radioBody --> antenna[Antenna / feedline<br/>sanitized route]
