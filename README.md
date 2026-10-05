@@ -52,6 +52,12 @@ Current active media:
 | `assets/xg100m-speaker-integration-2025-03-30-01.jpg` | Fabricated speaker grille before installation | Mechanical fitment, fabricated protective cover, and bench workflow |
 | `assets/xg100m-speaker-integration-2025-03-30-02.jpg` | Installed grille close-up | Finished panel fit, fastener placement, speaker protection |
 | `assets/xg100m-speaker-integration-2025-03-30-03.jpg` | Wider installed vehicle view | Placement, accessibility, integration into existing interior trim |
+| `assets/xg100m-console-install-sequence-2025-04-20-01.jpg` | Open console storage area before component placement | Shows available space, access constraints, and starting point for console integration |
+| `assets/xg100m-console-install-sequence-2025-04-20-02.jpg` | Component positioning inside the open console | Shows fitment trial, cable handling, and service-access planning |
+| `assets/xg100m-power-routing-context-2025-04-20-01.jpg` | Power-routing context at the vehicle battery area | Documents the installation environment for power-path planning without exposing radio programming details |
+| `assets/xg100m-power-routing-context-2025-04-20-02.jpg` | Battery-area routing context with cover and surrounding structure | Shows physical routing constraints and inspection access around the power source |
+| `assets/xg100m-control-head-console-placement-2025-04-20-01.jpg` | Control head placed inside the console | Shows operator-access and stowage concept during fitment |
+| `assets/xg100m-console-closed-serviceability-2025-04-20-01.jpg` | Console closed with microphone/control cabling accessible | Shows serviceability and cable exit path after the console is returned to normal use |
 
 ## Installation Narrative
 
@@ -84,6 +90,18 @@ Mobile radio audio needs to be usable in a vehicle without leaving a loose speak
 3. Fabricate a low-profile grille with enough open area for audio while protecting the speaker cone.
 4. Mount the grille with visible service fasteners instead of hiding the assembly permanently.
 5. Reserve the rest of the installation documentation for sanitized diagrams and checklists: power, fusing, grounding, antenna/feedline routing, and accessory-cable interfaces.
+
+### Console Fitment And Service Access
+
+This sequence documents the console side of the XG-100M installation: open-console inspection, component placement, power-path context, control-head fitment, and final service access with the console returned to normal use.
+
+<img src="assets/xg100m-console-install-sequence-2025-04-20-01.jpg" alt="Open vehicle console before Harris XG-100M component placement" width="48%"> <img src="assets/xg100m-console-install-sequence-2025-04-20-02.jpg" alt="Component placement trial inside vehicle console during XG-100M installation" width="48%">
+
+<img src="assets/xg100m-power-routing-context-2025-04-20-01.jpg" alt="Vehicle battery area power routing context for XG-100M installation" width="48%"> <img src="assets/xg100m-power-routing-context-2025-04-20-02.jpg" alt="Battery area physical routing context for XG-100M installation" width="48%">
+
+<img src="assets/xg100m-control-head-console-placement-2025-04-20-01.jpg" alt="Harris XG-100M control head placed inside vehicle console" width="48%"> <img src="assets/xg100m-console-closed-serviceability-2025-04-20-01.jpg" alt="Vehicle console closed with Harris microphone and cabling accessible" width="48%">
+
+These photos are intentionally framed as installation documentation rather than operational radio documentation. They show fit, access, cable path, and serviceability without publishing radio programming, identifiers, or protected configuration details.
 
 ### Selected Vehicle Radio Context
 
