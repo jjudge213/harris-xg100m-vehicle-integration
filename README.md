@@ -29,13 +29,9 @@ The goal is to capture practical communications-equipment installation thinking:
 
 ## Project Outcomes
 
-| Area | Status | Public-safe takeaway |
-|---|---|---|
-| Configured | In progress | Radio configuration details are intentionally excluded; public work focuses on vehicle integration, power routing, audio, and service access. |
-| Fabricated | Documented | CAD-modeled control-head tray concepts, fitment revisions, protected speaker/grille integration, and power-routing documentation. |
-| Tested | Partially documented | Physical fitment, component placement, speaker/service access, and power-distribution routing were checked through staged install photos. |
-| Constraint found | Documented | Vehicle interior space, serviceability, driver-area safety, and public redaction boundaries shaped the install documentation. |
-| Planned next work | Open | Add cleaner public-safe grounding, RF/feedline, antenna, strain-relief, and audio-verification checklist items as documentation becomes available. |
+This project shows the installation process from concept through physical fitment: control-head tray modeling, console fit checks, protected speaker integration, and power-distribution routing. The public version focuses on the parts of the work that are useful to a field-integration reviewer: fit, access, routing, serviceability, and documentation discipline.
+
+Radio programming and operational configuration are intentionally outside the public scope. The next useful public additions are cleaner grounding, RF/feedline, antenna, strain-relief, and audio-verification notes as those can be documented without exposing sensitive details.
 
 ## Resume Bullets
 
