@@ -15,24 +15,24 @@ flowchart LR
 
 ## Purpose
 
-Vehicle communications integration around a Harris XG-100M mobile radio. The project emphasizes the parts a field installer or reviewer can evaluate publicly: control-head fitment, speaker integration, power routing, cable-path planning, service access, and clear redaction boundaries.
+Vehicle communications integration around a Harris XG-100M mobile radio. The project emphasizes the parts a field installer or reviewer can evaluate publicly: control-head fitment, speaker integration, fused power distribution, antenna feedline planning, service access, and clear redaction boundaries.
 
 ## Key Results
 
-- Modeled and fit a control-head console insert before later install work.
-- Documented protected speaker/grille integration and serviceable mounting.
-- Added public-safe power-distribution and routing documentation.
+- Modeled and fit a center-console control-head mount before later install work.
+- Fabricated a protected driver-facing speaker grille and custom antenna feedline.
+- Added public-safe power-distribution and antenna-routing documentation.
 - Kept radio programming, identifiers, key material, and private vehicle details out of scope.
 
 ## Project Outcomes
 
-The project now reads as a practical install case study: design the fit, check the physical placement, document power/routing context, and preserve serviceability. The remaining public gaps are grounding, RF/feedline, antenna, strain relief, and audio-verification notes when those can be shown without sensitive detail.
+The project now reads as a practical install case study: choose discreet equipment placement, fabricate the parts needed for that placement, verify fitment in the vehicle, and document the fused power and antenna-routing plan. The remaining public gaps are grounding, strain relief, final RF/audio verification, and any service-access notes that can be shown without sensitive detail.
 
 ## Resume Bullets
 
-- Documented Harris XG-100M vehicle integration with emphasis on operator access, serviceability, audio usability, and safe public documentation.
-- Designed and fit console/control-head and speaker-integration elements while preserving inspection and future troubleshooting access.
-- Applied field-service thinking to physical retention, cable routing, power distribution, strain relief, and sensitive-configuration boundaries.
+- Documented Harris XG-100M vehicle integration with emphasis on discreet placement, operator access, fused power distribution, and safe public documentation.
+- Designed and iterated ASA 3D-printed console/control-head and speaker-grille components from template through vehicle fitment.
+- Fabricated and checked a custom LMR-240-equivalent antenna feedline with TNC connectors and NanoVNA SWR verification from the radio end of the antenna system.
 
 ## Installation Narrative
 
@@ -49,21 +49,21 @@ Mobile radio audio needs to be usable in a vehicle without leaving a loose speak
 
 ### Approach
 
-1. Identify a panel location that keeps radio audio close to the operator while avoiding clutter.
-2. Use a compact speaker position behind a protective grille.
-3. Fabricate a low-profile grille with enough open area for audio while protecting the speaker cone.
-4. Mount the grille with visible service fasteners instead of hiding the assembly permanently.
-5. Keep the remaining install notes concise and public-safe: power, fusing, grounding, antenna/feedline routing, and accessory-cable interfaces.
+1. Place the control head in the center console for a stealth, inconspicuous install with direct operator access.
+2. Mount the external speaker on the side of the center console, directed toward the driver and protected by a printed grille.
+3. Mount the radio body under the rear seat to keep the control-head and power-distribution runs short.
+4. Feed the main distribution block through a 30 amp fuse, with 10 amp protection for the control head and 15 amp protection for the radio body.
+5. Route a custom TNC-terminated LMR-240-equivalent antenna feedline toward a rear-window glass-mount antenna and keep the public notes concise and sanitized.
 
 ### Initial CAD Modeling And Control-Head Fitment
 
-The install started with a CAD fitment pass for the control head and center-console pocket. These images show the transition from a simple tray/retention model to an initial physical fit check in the truck console.
+The control-head mount started as a rough cardboard template, then moved into Autodesk Fusion 360 for CAD modeling. Iterative FDM prints in ASA were dry-fit with the control head installed in the truck console until the bracket geometry, pass-through openings, and surrounding clearances made sense.
 
 <img src="assets/xg100m-control-head-console-cad-fitment-2025-03-11-01.jpg" alt="Initial CAD model for Harris XG-100M control-head center-console tray" width="48%"> <img src="assets/xg100m-control-head-console-cad-fitment-2025-03-11-02.jpg" alt="CAD model checking Harris XG-100M control-head fitment and retention" width="48%">
 
 <img src="assets/xg100m-control-head-console-fit-check-2025-03-12-01.jpg" alt="Physical Harris XG-100M control-head fit check in truck center console" width="75%">
 
-This sequence documents the front end of the installation workflow: model the console insert, represent the radio control head in the design, then verify that the idea makes physical sense in the actual vehicle console before moving into later speaker, power, and cable-path work.
+This sequence documents the front end of the installation workflow: template the console space, model the insert, print revisions, and verify the idea physically with the control head installed before moving into speaker, power, and cable-path work.
 
 #### Fitment Revisions
 
@@ -75,7 +75,7 @@ The next useful revision added pass-through openings and refined the console ins
 
 ### Power Distribution And Routing
 
-This sequence documents the XG-100M installation power distribution and routing workflow: open-console inspection, component placement, battery-area routing context, fuse/distribution placement, and service-access planning.
+This sequence documents the XG-100M installation power distribution and routing workflow: open-console inspection, component placement, battery-area routing context, fuse/distribution placement, and service-access planning. The main distribution block is fed through a 30 amp fuse, then branches to the control head through a 10 amp fuse and to the radio body through a 15 amp fuse.
 
 <img src="assets/xg100m-console-install-sequence-2025-04-20-01.jpg" alt="Open vehicle console before Harris XG-100M component placement" width="48%"> <img src="assets/xg100m-console-install-sequence-2025-04-20-02.jpg" alt="Component placement trial inside vehicle console during XG-100M installation" width="48%">
 
@@ -85,7 +85,7 @@ The cropped fuse-block image is included as physical installation evidence only:
 
 <img src="assets/xg100m-power-distribution-fuse-block-2025-04-20-01.jpg" alt="Cropped Harris XG-100M install power distribution and fuse block context" width="75%">
 
-These photos are intentionally framed as installation documentation rather than operational radio documentation. They show fit, access, cable path, and power-path context without publishing radio programming, identifiers, or protected configuration details.
+The antenna feedline uses custom LMR-240-equivalent coax with TNC connectors on both ends. It routes toward the rear of the truck for a rear-window glass-mount antenna, and the antenna system was checked from the radio end with a NanoVNA for SWR context. These notes are intentionally framed as installation documentation rather than operational radio documentation.
 
 ### Selected Vehicle Radio Context
 
