@@ -15,31 +15,24 @@ flowchart LR
 
 ## Purpose
 
-This repository documents a vehicle communications integration project centered on a Harris XG-100M mobile radio installation. The strongest current section is the audio/speaker and console-fitment work: choosing a clean speaker location, fabricating a protective grille, fitting it into the vehicle interior, and keeping the installation serviceable for future radio, power, RF, and accessory-cable work.
-
-The goal is to capture practical communications-equipment installation thinking: physical fit, usable audio, cable/interface planning, safety boundaries, and field-service style verification.
+Vehicle communications integration around a Harris XG-100M mobile radio. The project emphasizes the parts a field installer or reviewer can evaluate publicly: control-head fitment, speaker integration, power routing, cable-path planning, service access, and clear redaction boundaries.
 
 ## Key Results
 
-- Integrated a Harris XG-100M control-head/radio setup into a vehicle cabin with operator access in mind.
-- Designed and fabricated a low-profile speaker grille instead of leaving the speaker loose or exposed.
-- Fit the speaker assembly into existing interior trim while preserving serviceability through visible fasteners.
-- Documented the next installation layers to finish publicly: power/fusing, grounding, RF path, antenna/feedline routing, and accessory cabling.
-- Kept radio configuration, identifiers, key material, and private vehicle details out of the public-facing write-up.
+- Modeled and fit a control-head console insert before later install work.
+- Documented protected speaker/grille integration and serviceable mounting.
+- Added public-safe power-distribution and routing documentation.
+- Kept radio programming, identifiers, key material, and private vehicle details out of scope.
 
 ## Project Outcomes
 
-This project shows the installation process from concept through physical fitment: control-head tray modeling, console fit checks, protected speaker integration, and power-distribution routing. The public version focuses on the parts of the work that are useful to a field-integration reviewer: fit, access, routing, serviceability, and documentation discipline.
-
-Radio programming and operational configuration are intentionally outside the public scope. The next useful public additions are cleaner grounding, RF/feedline, antenna, strain-relief, and audio-verification notes as those can be documented without exposing sensitive details.
+The project now reads as a practical install case study: design the fit, check the physical placement, document power/routing context, and preserve serviceability. The remaining public gaps are grounding, RF/feedline, antenna, strain relief, and audio-verification notes when those can be shown without sensitive detail.
 
 ## Resume Bullets
 
-- Installed and documented Harris XG-100M mobile-radio vehicle integration with emphasis on operator access, serviceability, audio usability, and safe public documentation.
-- Designed and fabricated a low-profile protected speaker grille for vehicle-console integration while preserving access for inspection and future troubleshooting.
-- Planned public-safe follow-on documentation for mobile radio power, fusing, grounding, RF feedline, antenna, and accessory/audio cabling paths.
-- Applied field-service style verification thinking to physical retention, speaker protection, cable strain relief, audio clarity, and RF-path inspection.
-- Maintained strict publication boundaries around radio programming, operational identifiers, key material, vehicle details, and private infrastructure.
+- Documented Harris XG-100M vehicle integration with emphasis on operator access, serviceability, audio usability, and safe public documentation.
+- Designed and fit console/control-head and speaker-integration elements while preserving inspection and future troubleshooting access.
+- Applied field-service thinking to physical retention, cable routing, power distribution, strain relief, and sensitive-configuration boundaries.
 
 ## Installation Narrative
 
@@ -60,7 +53,7 @@ Mobile radio audio needs to be usable in a vehicle without leaving a loose speak
 2. Use a compact speaker position behind a protective grille.
 3. Fabricate a low-profile grille with enough open area for audio while protecting the speaker cone.
 4. Mount the grille with visible service fasteners instead of hiding the assembly permanently.
-5. Reserve the rest of the installation documentation for sanitized diagrams and checklists: power, fusing, grounding, antenna/feedline routing, and accessory-cable interfaces.
+5. Keep the remaining install notes concise and public-safe: power, fusing, grounding, antenna/feedline routing, and accessory-cable interfaces.
 
 ### Initial CAD Modeling And Control-Head Fitment
 
@@ -111,57 +104,15 @@ The selected video clips add motion context around radio placement, cabin access
 
 ## Current Status
 
-| Area | Status | Notes |
-|---|---|---|
-| XG-100M control-head/dash placement | Documented | 2025-04-28 verified animated GIF |
-| Speaker grille fabrication | Documented | 3-image Instagram carousel |
-| Vehicle console speaker fitment | Documented | Installed close-up and wider view |
-| Radio body/control-head mounting | Further documented | Control-head/dash media plus selected vehicle radio context clips; power/RF routing still needs documentation |
-| Power/fusing/grounding plan | Partially documented | Power-distribution/fuse-block context added; grounding details still need sanitized write-up |
-| Antenna/feedline routing | Needs documentation | Photos/diagram still needed |
-| Accessory/audio/PTT cabling | Needs write-up | Public-source pinout references only |
-| RF/audio verification | Needs checklist | No operational frequencies or codeplug details |
+The public repo now covers the visible install story: control-head fitment, speaker/grille fabrication, console placement, vehicle radio context, and power-distribution/routing. The remaining public gaps are grounding detail, antenna/feedline routing, accessory/audio/PTT cabling, and RF/audio verification notes that can be shown without operational frequencies, codeplug details, identifiers, or private vehicle information.
 
 ## Project Media
 
-See [docs/evidence-gallery.md](docs/evidence-gallery.md) for the media gallery.
-
-Current active media:
-
-| File | What It Shows | Why It Matters |
-|---|---|---|
-| `assets/xg100m-progress-2025-04-28-01.gif` | XG-100M control head/radio visible in vehicle dash area | Shows installed position, control-head access, and integration progress |
-| `assets/xg100m-vehicle-radio-context-2025-05-08-01.gif` | Vehicle radio/control-head context from selected ChatExport video | Adds installed-equipment and operator-access context |
-| `assets/xg100m-handheld-vehicle-context-2025-05-08-01.gif` | Handheld radio and vehicle cabin context from selected ChatExport video | Field-radio context around the vehicle integration environment |
-| `assets/xg100m-vehicle-install-context-2025-05-15-01.gif` | Functioning Harris XG-100M vehicle install context | Operational fitment context for the vehicle radio installation |
-| `assets/xg100m-control-head-console-cad-fitment-2025-03-11-01.jpg` | Initial CAD model for the center-console control-head tray | Shows the first pass at matching the control-head footprint to the truck console opening |
-| `assets/xg100m-control-head-console-cad-fitment-2025-03-11-02.jpg` | CAD fitment model with control-head body represented | Shows early height, clearance, and retention planning before physical install work |
-| `assets/xg100m-control-head-console-fit-check-2025-03-12-01.jpg` | Physical fit check in the truck center console | Connects the CAD concept to the actual console pocket and control-head placement |
-| `assets/xg100m-control-head-console-fitment-revision-2025-03-13-01.jpg` | Revised CAD model for the center-console tray | Shows added pass-through openings and support-leg geometry for the insert |
-| `assets/xg100m-control-head-console-fitment-revision-2025-03-14-01.jpg` | Physical fitment revision inside the truck console | Shows the revised insert and control head placed in the console pocket |
-| `assets/xg100m-control-head-console-fitment-revision-2025-03-28-01.jpg` | Control-head fitment revision with cabling attached | Shows cable clearance and operator-access check during fitment |
-| `assets/xg100m-control-head-console-fitment-revision-2025-03-28-02.jpg` | Wider console fitment revision with microphone context | Shows control-head placement, microphone/cable stowage, and console accessibility |
-| `assets/xg100m-speaker-integration-2025-03-30-01.jpg` | Fabricated speaker grille before installation | Mechanical fitment, fabricated protective cover, and bench workflow |
-| `assets/xg100m-speaker-integration-2025-03-30-02.jpg` | Installed grille close-up | Finished panel fit, fastener placement, speaker protection |
-| `assets/xg100m-speaker-integration-2025-03-30-03.jpg` | Wider installed vehicle view | Placement, accessibility, integration into existing interior trim |
-| `assets/xg100m-console-install-sequence-2025-04-20-01.jpg` | Open console storage area before component placement | Shows available space, access constraints, and starting point for console integration |
-| `assets/xg100m-console-install-sequence-2025-04-20-02.jpg` | Component positioning inside the open console | Shows fitment trial, cable handling, and service-access planning |
-| `assets/xg100m-power-routing-context-2025-04-20-01.jpg` | Power-routing context at the vehicle battery area | Documents the installation environment for power-path planning without exposing radio programming details |
-| `assets/xg100m-power-routing-context-2025-04-20-02.jpg` | Battery-area routing context with cover and surrounding structure | Shows physical routing constraints and inspection access around the power source |
-| `assets/xg100m-power-distribution-fuse-block-2025-04-20-01.jpg` | Power-distribution/fuse-block context for the Harris install | Shows fused distribution and physical routing context with identifying label area cropped out |
+See [docs/evidence-gallery.md](docs/evidence-gallery.md) for the full media gallery. The README keeps only representative images so the install story stays readable at a glance.
 
 ## Verification Plan
 
-The final public version should include a sanitized checklist using this structure:
-
-| Check | Method | Result |
-|---|---|---|
-| Physical retention | Inspect fasteners and grille movement | Pending write-up |
-| Speaker protection | Verify cone/driver is not exposed to cargo or footwell contact | Pending write-up |
-| Audio clarity | Receive/monitor non-sensitive test audio | Pending write-up |
-| Cable strain relief | Inspect route and bend radius behind panel | Pending documentation |
-| Power safety | Confirm fuse location and wire protection | Pending sanitized diagram |
-| RF path | Confirm antenna/feedline route and connector condition | Pending documentation |
+Future public notes should stay focused on inspection rather than operational configuration: physical retention, speaker protection, audio clarity, cable strain relief, power safety, and RF path condition. Any verification write-up should use sanitized placeholders and avoid frequencies, codeplug details, identifiers, or private routing information.
 
 ## Troubleshooting Template
 
