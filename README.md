@@ -28,10 +28,6 @@ Vehicle communications integration around a Harris XG-100M mobile radio. The pro
 
 The project now reads as a practical install case study: design the fit, check the physical placement, document power/routing context, and preserve serviceability. The remaining public gaps are grounding, RF/feedline, antenna, strain relief, and audio-verification notes when those can be shown without sensitive detail.
 
-## Methodology And Obstacles
-
-The work moved from model to fit check before committing to installed hardware. Console geometry, cable pass-through, microphone placement, speaker protection, and service access were treated as practical constraints rather than cosmetic details. The main obstacles were limited interior space, routing power cleanly without exposing vehicle details, and documenting enough of the install to show competence without publishing radio configuration or protected identifiers.
-
 ## Resume Bullets
 
 - Documented Harris XG-100M vehicle integration with emphasis on operator access, serviceability, audio usability, and safe public documentation.
